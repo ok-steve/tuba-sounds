@@ -13,7 +13,7 @@ field_name: field_tags
 entity_type: node
 bundle: article
 label: Tags
-description: 'Enter a comma-separated list. For example: Amsterdam, Mexico City, "Cleveland, Ohio"'
+description: 'Keywords or tags used to describe some item.'
 required: false
 translatable: true
 default_value: {  }
@@ -25,5 +25,7 @@ settings:
       tags: tags
     sort:
       field: _none
+      direction: asc
     auto_create: true
+    auto_create_bundle: ''
 field_type: entity_reference

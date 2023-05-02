@@ -6,10 +6,9 @@ dependencies:
     - field.field.node.article.body
     - field.field.node.article.field_image
     - field.field.node.article.field_tags
-    - image.style.thumbnail
     - node.type.article
   module:
-    - image
+    - media_library
     - path
     - text
 _core:
@@ -36,12 +35,11 @@ content:
     settings: {  }
     third_party_settings: {  }
   field_image:
-    type: image_image
+    type: media_library_widget
     weight: 1
     region: content
     settings:
-      progress_indicator: throbber
-      preview_image_style: thumbnail
+      media_types: {  }
     third_party_settings: {  }
   field_tags:
     type: entity_reference_autocomplete_tags
@@ -65,6 +63,11 @@ content:
     region: content
     settings:
       display_label: true
+    third_party_settings: {  }
+  simple_sitemap:
+    weight: 10
+    region: content
+    settings: {  }
     third_party_settings: {  }
   status:
     type: boolean_checkbox
