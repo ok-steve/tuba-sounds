@@ -1,4 +1,13 @@
 {
+    "menu_link_content.61db63ea-c70d-40f1-a073-a60e9f87eb3f": [
+        "node.4bbd94fe-0273-499d-a8bd-469fc625adba"
+    ],
+    "node.4bbd94fe-0273-499d-a8bd-469fc625adba": [
+        "user.0acc7f91-33e4-4070-8234-997facc9b6ee"
+    ],
+    "path_alias.5eb05635-f3b5-46c4-9135-038bf3323382": [
+        "node.4bbd94fe-0273-499d-a8bd-469fc625adba"
+    ],
     "shortcut.4157dbeb-e96d-4c5f-90d0-cac55c2ad820": [],
     "shortcut.36c97f0f-25fa-4efd-b4ff-f35fdc0b2313": [],
     "user.0acc7f91-33e4-4070-8234-997facc9b6ee": [],
