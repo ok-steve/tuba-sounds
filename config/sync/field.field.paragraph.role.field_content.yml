@@ -1,0 +1,29 @@
+uuid: 2fd8be77-b8fa-40fb-b2fe-1571a083c907
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_content
+    - node.type.person
+    - paragraphs.paragraphs_type.role
+id: paragraph.role.field_content
+field_name: field_content
+entity_type: paragraph
+bundle: role
+label: Name
+description: 'The name of the item.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      person: person
+    sort:
+      field: title
+      direction: ASC
+    auto_create: true
+    auto_create_bundle: person
+field_type: entity_reference

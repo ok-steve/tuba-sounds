@@ -1,0 +1,30 @@
+uuid: 7698298a-9c26-41e7-b629-00b3bcfd3ef7
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.role.field_content
+    - field.field.paragraph.role.field_role_name
+    - paragraphs.paragraphs_type.role
+id: paragraph.role.default
+targetEntityType: paragraph
+bundle: role
+mode: default
+content:
+  field_content:
+    type: entity_reference_label
+    label: hidden
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_role_name:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 1
+    region: content
+hidden: {  }

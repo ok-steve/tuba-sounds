@@ -1,0 +1,21 @@
+uuid: b0e2e733-25a6-43cd-a98d-a091c940f24d
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+id: media.field_media_oembed_audio
+field_name: field_media_oembed_audio
+entity_type: media
+type: string
+settings:
+  max_length: 255
+  case_sensitive: false
+  is_ascii: false
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

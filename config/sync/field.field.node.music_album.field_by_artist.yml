@@ -1,0 +1,31 @@
+uuid: 91d75dee-83f6-428a-ba59-5af1c68b71ad
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_by_artist
+    - node.type.music_album
+    - paragraphs.paragraphs_type.role
+  module:
+    - entity_reference_revisions
+id: node.music_album.field_by_artist
+field_name: field_by_artist
+entity_type: node
+bundle: music_album
+label: 'Primary artist'
+description: 'The artist that performed this album or recording.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    target_bundles:
+      role: role
+    negate: 0
+    target_bundles_drag_drop:
+      role:
+        weight: 2
+        enabled: true
+field_type: entity_reference_revisions

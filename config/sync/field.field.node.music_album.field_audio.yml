@@ -1,0 +1,29 @@
+uuid: d6f6d867-3cf7-4d03-a81f-dfde9e063f88
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_audio
+    - media.type.remote_audio
+    - node.type.music_album
+id: node.music_album.field_audio
+field_name: field_audio
+entity_type: node
+bundle: music_album
+label: Audio
+description: 'An embedded audio object.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:media'
+  handler_settings:
+    target_bundles:
+      remote_audio: remote_audio
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: true
+    auto_create_bundle: ''
+field_type: entity_reference

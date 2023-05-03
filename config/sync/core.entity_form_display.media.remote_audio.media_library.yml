@@ -1,0 +1,20 @@
+uuid: d806fb82-a4f2-4a32-a7f6-82319e647993
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_form_mode.media.media_library
+    - field.field.media.remote_audio.field_media_oembed_audio
+    - media.type.remote_audio
+id: media.remote_audio.media_library
+targetEntityType: media
+bundle: remote_audio
+mode: media_library
+content: {  }
+hidden:
+  created: true
+  field_media_oembed_audio: true
+  name: true
+  path: true
+  status: true
+  uid: true

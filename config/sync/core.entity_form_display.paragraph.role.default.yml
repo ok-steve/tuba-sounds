@@ -1,0 +1,34 @@
+uuid: 68f716b8-becd-4d62-b190-0e3cf84a43c5
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.role.field_content
+    - field.field.paragraph.role.field_role_name
+    - paragraphs.paragraphs_type.role
+id: paragraph.role.default
+targetEntityType: paragraph
+bundle: role
+mode: default
+content:
+  field_content:
+    type: entity_reference_autocomplete
+    weight: 0
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_role_name:
+    type: string_textfield
+    weight: 1
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden:
+  created: true
+  status: true

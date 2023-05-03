@@ -1,0 +1,32 @@
+uuid: 3826e473-eded-4beb-bd8e-1311ff05078e
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.media.media_library
+    - field.field.media.remote_audio.field_media_oembed_audio
+    - image.style.medium
+    - media.type.remote_audio
+  module:
+    - image
+id: media.remote_audio.media_library
+targetEntityType: media
+bundle: remote_audio
+mode: media_library
+content:
+  thumbnail:
+    type: image
+    label: hidden
+    settings:
+      image_link: ''
+      image_style: medium
+      image_loading:
+        attribute: lazy
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  created: true
+  field_media_oembed_audio: true
+  name: true
+  uid: true

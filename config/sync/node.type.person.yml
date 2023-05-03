@@ -1,0 +1,17 @@
+uuid: 2201a341-1eb7-496e-8d48-9a5d6a12382f
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Person
+type: person
+description: 'A person (alive, dead, undead, or fictional).'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: false

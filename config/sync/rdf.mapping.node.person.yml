@@ -1,0 +1,40 @@
+uuid: d1e3d8a3-3eb3-4339-9482-f89c95e5e7c1
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.person
+  module:
+    - node
+id: node.person
+targetEntityType: node
+bundle: person
+types:
+  - 'schema:Person'
+fieldMappings:
+  title:
+    properties:
+      - 'schema:name'
+  created:
+    properties:
+      - 'schema:dateCreated'
+    datatype_callback:
+      callable: 'Drupal\rdf\CommonDataConverter::dateIso8601Value'
+  changed:
+    properties:
+      - 'schema:dateModified'
+    datatype_callback:
+      callable: 'Drupal\rdf\CommonDataConverter::dateIso8601Value'
+  body:
+    properties:
+      - 'schema:description'
+  uid:
+    properties:
+      - 'schema:author'
+    mapping_type: rel
+  field_image:
+    properties:
+      - 'schema:image'
+  field_same_as:
+    properties:
+      - 'schema:sameAs'

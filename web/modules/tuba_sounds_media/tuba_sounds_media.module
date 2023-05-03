@@ -1,0 +1,29 @@
+<?php
+
+/**
+ * @file
+ * Primary module hooks for Tuba Sounds media module.
+ */
+
+use Drupal\media_library\Form\OEmbedForm;
+
+/**
+ * Implements hook_media_source_info_alter().
+ */
+function tuba_sounds_media_media_source_info_alter(array &$sources) {
+  $sources['oembed:audio'] = [
+    'id' => 'remote_audio',
+    'label' => t('Remote audio'),
+    'description' => t('Use remote audio URL for reusable media.'),
+    'providers' => ['Spotify', 'YouTube'],
+    'default_thumbnail_filename' => 'audio.png',
+    'allowed_field_types' => ['string'],
+    'forms' => [
+      'media_library_add' => OEmbedForm::class,
+    ],
+    'thumbnail_uri_metadata_attribute' => 'thumbnail_uri',
+    'default_name_metadata_attribute' => 'default_name',
+    'class' => 'Drupal\media\Plugin\media\Source\OEmbed',
+    'provider' => 'tuba_sounds_media',
+  ];
+}

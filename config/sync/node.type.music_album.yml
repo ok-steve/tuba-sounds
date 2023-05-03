@@ -1,0 +1,17 @@
+uuid: 2a8dba9f-a469-4fa7-8620-5cbebc5c3c89
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: 'Music album'
+type: music_album
+description: 'A collection of music tracks.'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: false

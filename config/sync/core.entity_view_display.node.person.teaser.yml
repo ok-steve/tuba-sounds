@@ -1,0 +1,30 @@
+uuid: a1f75681-a255-4c8f-aef0-1d55bfc8f839
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.person.body
+    - field.field.node.person.field_image
+    - field.field.node.person.field_same_as
+    - node.type.person
+  module:
+    - user
+id: node.person.teaser
+targetEntityType: node
+bundle: person
+mode: teaser
+content:
+  field_image:
+    type: entity_reference_entity_view
+    label: hidden
+    settings:
+      view_mode: teaser
+      link: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  body: true
+  field_same_as: true
+  links: true

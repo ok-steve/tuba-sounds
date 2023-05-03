@@ -1,0 +1,10 @@
+uuid: 1ff8b525-8e0d-490f-ab8d-934feed0001a
+langcode: en
+status: true
+dependencies: {  }
+id: role
+label: Role
+icon_uuid: null
+icon_default: null
+description: 'Represents additional information about a relationship or property.'
+behavior_plugins: {  }

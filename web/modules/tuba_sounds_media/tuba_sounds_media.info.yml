@@ -1,0 +1,8 @@
+name: Tuba Sounds media
+type: module
+description: Customizations to the core media module.
+package: Custom
+core_version_requirement: ^9 || ^10
+dependencies:
+  - drupal:media
+  - drupal:media_library

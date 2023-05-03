@@ -1,0 +1,26 @@
+uuid: 75e566bd-99ab-475a-ad12-eaddfe5141fb
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.rss
+    - field.field.node.person.body
+    - field.field.node.person.field_image
+    - field.field.node.person.field_same_as
+    - node.type.person
+  module:
+    - user
+id: node.person.rss
+targetEntityType: node
+bundle: person
+mode: rss
+content:
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  body: true
+  field_image: true
+  field_same_as: true

@@ -1,0 +1,31 @@
+uuid: ed275d67-73dc-40a9-bc72-1a4a8edca84a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_contributor
+    - node.type.music_album
+    - paragraphs.paragraphs_type.role
+  module:
+    - entity_reference_revisions
+id: node.music_album.field_contributor
+field_name: field_contributor
+entity_type: node
+bundle: music_album
+label: 'Additional artists'
+description: 'A secondary contributor to the CreativeWork or Event.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    target_bundles:
+      role: role
+    negate: 0
+    target_bundles_drag_drop:
+      role:
+        weight: 2
+        enabled: true
+field_type: entity_reference_revisions

@@ -1,0 +1,23 @@
+uuid: 805f110c-90df-441a-a4ee-2ab92bdf8e7f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_date_published
+    - node.type.music_album
+id: node.music_album.field_date_published
+field_name: field_date_published
+entity_type: node
+bundle: music_album
+label: Released
+description: 'Date of first broadcast/publication.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

@@ -1,0 +1,40 @@
+uuid: 41a3c815-bb81-4a51-9d81-20ec35182549
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.rss
+    - field.field.node.music_album.body
+    - field.field.node.music_album.field_audio
+    - field.field.node.music_album.field_by_artist
+    - field.field.node.music_album.field_contributor
+    - field.field.node.music_album.field_date_published
+    - field.field.node.music_album.field_image
+    - field.field.node.music_album.field_publisher
+    - field.field.node.music_album.field_same_as
+    - field.field.node.music_album.field_tags
+    - field.field.node.music_album.field_track
+    - node.type.music_album
+  module:
+    - user
+id: node.music_album.rss
+targetEntityType: node
+bundle: music_album
+mode: rss
+content:
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  body: true
+  field_audio: true
+  field_by_artist: true
+  field_contributor: true
+  field_date_published: true
+  field_image: true
+  field_publisher: true
+  field_same_as: true
+  field_tags: true
+  field_track: true

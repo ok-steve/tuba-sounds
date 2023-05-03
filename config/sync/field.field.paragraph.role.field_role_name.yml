@@ -1,0 +1,19 @@
+uuid: 616bd6f0-a710-48dc-988b-bbb9eabf58ee
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_role_name
+    - paragraphs.paragraphs_type.role
+id: paragraph.role.field_role_name
+field_name: field_role_name
+entity_type: paragraph
+bundle: role
+label: Role
+description: 'A role played, performed or filled by a person or organization.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

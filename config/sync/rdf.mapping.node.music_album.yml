@@ -1,0 +1,61 @@
+uuid: f2885ab0-1df4-4d77-94ca-74d200554bf0
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.music_album
+  module:
+    - node
+id: node.music_album
+targetEntityType: node
+bundle: music_album
+types:
+  - 'schema:MusicAlbum'
+fieldMappings:
+  title:
+    properties:
+      - 'schema:name'
+  created:
+    properties:
+      - 'schema:dateCreated'
+    datatype_callback:
+      callable: 'Drupal\rdf\CommonDataConverter::dateIso8601Value'
+  changed:
+    properties:
+      - 'schema:dateModified'
+    datatype_callback:
+      callable: 'Drupal\rdf\CommonDataConverter::dateIso8601Value'
+  body:
+    properties:
+      - 'schema:description'
+  uid:
+    properties:
+      - 'schema:author'
+    mapping_type: rel
+  field_audio:
+    properties:
+      - 'schema:audio'
+  field_by_artist:
+    properties:
+      - 'schema:byArtist'
+  field_contributor:
+    properties:
+      - 'schema:contributor'
+  field_date_published:
+    properties:
+      - 'schema:datePublished'
+  field_image:
+    properties:
+      - 'schema:image'
+  field_publisher:
+    properties:
+      - 'schema:publisher'
+  field_same_as:
+    properties:
+      - 'schema:sameAs'
+  field_tags:
+    properties:
+      - 'schema:keywords'
+  field_track:
+    properties:
+      - 'schema:track'
