@@ -1,0 +1,171 @@
+{
+    "uuid": [
+        {
+            "value": "77c22af4-ec89-4de3-850a-e165477c083f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-04T19:04:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "The Ray Draper Quintet featuring John Coltrane"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-04T19:02:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-04T19:04:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/ray-draper-quintet-featuring-john-coltrane",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><em>Filid\u00e9<\/em> and <em>Paul's Pal<\/em> reissued on John Coltrane album, <a href=\"https:\/\/en.wikipedia.org\/wiki\/The_Believer_(John_Coltrane_album)\">The Believer<\/a>.<\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "458321e2-4903-427a-8382-7d57301a3616"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "75311b36-1cac-4195-bb48-5ba0d82bfa64"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "fdb603c6-0562-4c6d-90e3-21541732c9ce"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1958
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "86284eb9-56f9-4af4-af13-4e533a8bb933"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "New Jazz"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/2b52695d-4030-32a8-95c9-e37a93341d9f",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/The_Ray_Draper_Quintet_featuring_John_Coltrane",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/344702-The-Ray-Draper-Quintet-Featuring-John-Coltrane-The-Ray-Draper-Quintet-Featuring-John-Coltrane",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/the-ray-draper-quintet-featuring-john-coltrane-mw0000873416",
+            "title": "AllMusic",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Clifford's Kappa"
+        },
+        {
+            "value": "Filid\u00e9"
+        },
+        {
+            "value": "Two Sons"
+        },
+        {
+            "value": "Paul's Pal"
+        },
+        {
+            "value": "Under Paris Skies"
+        },
+        {
+            "value": "I Hadn't Anyone Till You"
+        }
+    ]
+}

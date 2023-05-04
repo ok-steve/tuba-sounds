@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2023-05-04T18:40:41+00:00",
+            "value": "2023-05-04T19:05:09+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,13 +53,13 @@
     ],
     "changed": [
         {
-            "value": "2023-05-04T18:40:41+00:00",
+            "value": "2023-05-04T19:05:09+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "promote": [
         {
-            "value": false
+            "value": true
         }
     ],
     "sticky": [
@@ -91,7 +91,12 @@
             "summary": ""
         }
     ],
-    "field_image": [],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "86284eb9-56f9-4af4-af13-4e533a8bb933"
+        }
+    ],
     "field_same_as": [
         {
             "uri": "https:\/\/musicbrainz.org\/artist\/fa3721d5-a60a-46e8-96c7-3f2dac744fdd",

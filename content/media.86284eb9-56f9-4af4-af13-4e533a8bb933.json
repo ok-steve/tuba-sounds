@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "86284eb9-56f9-4af4-af13-4e533a8bb933"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "9e3f7168-a1ff-4fc3-892a-35b39ba2826b"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-05-04T19:02:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "name": [
+        {
+            "value": "The_Ray_Draper_Quintet_featuring_John_Coltrane.jpg"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Cover art for The Ray Draper Quintet featuring John Coltrane",
+            "title": null,
+            "width": 318,
+            "height": 313,
+            "target_type": "file",
+            "target_uuid": "9c611831-1e25-4c9e-b034-794785e1f732"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-04T19:02:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-04T19:02:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Cover art for The Ray Draper Quintet featuring John Coltrane",
+            "title": "",
+            "width": 318,
+            "height": 313,
+            "target_type": "file",
+            "target_uuid": "9c611831-1e25-4c9e-b034-794785e1f732"
+        }
+    ]
+}

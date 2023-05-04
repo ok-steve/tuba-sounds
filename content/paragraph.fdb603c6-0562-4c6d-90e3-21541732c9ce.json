@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "fdb603c6-0562-4c6d-90e3-21541732c9ce"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "role",
+            "target_type": "paragraphs_type",
+            "target_uuid": "1ff8b525-8e0d-490f-ab8d-934feed0001a"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-04T19:02:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_content": [
+        {
+            "target_type": "node",
+            "target_uuid": "4498d0a4-524b-4c5e-b08d-514dc5f745c3"
+        }
+    ],
+    "field_role_name": [
+        {
+            "value": "tenor saxophone (tracks 1-5)"
+        }
+    ]
+}

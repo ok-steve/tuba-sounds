@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9a24f491-e191-42a3-9afd-0ef1c4e126d7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/4498d0a4-524b-4c5e-b08d-514dc5f745c3"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/john-coltrane"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
