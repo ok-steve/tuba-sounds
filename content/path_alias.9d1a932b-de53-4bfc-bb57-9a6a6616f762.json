@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9d1a932b-de53-4bfc-bb57-9a6a6616f762"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3eec3272-eab4-4501-a6ea-c286f78ef837"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/ray-draper"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

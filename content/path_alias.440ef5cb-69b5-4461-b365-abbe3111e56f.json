@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "440ef5cb-69b5-4461-b365-abbe3111e56f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0b0e1e73-d86e-4e68-adaa-a518b4c2a758"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/jackie-mclean"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

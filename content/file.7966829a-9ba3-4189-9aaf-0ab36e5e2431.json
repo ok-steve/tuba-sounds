@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "7966829a-9ba3-4189-9aaf-0ab36e5e2431"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Tuba_Sounds.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-05\/Tuba_Sounds.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 20288
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-04T18:33:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-04T18:33:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

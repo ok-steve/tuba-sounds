@@ -1,0 +1,165 @@
+{
+    "uuid": [
+        {
+            "value": "196ea8f3-6129-4e3b-a947-4044e9f45f3b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-04T18:37:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Tuba Sounds"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-04T18:33:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-04T18:37:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/tuba-sounds",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "f59085c1-cb9b-4614-a719-4a54fb157a5a"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "ec44a1a3-283e-4bc5-ade7-61d91dcab526"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "915be345-5a00-460e-af15-875fe0119c1d"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1957
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "c3680146-4e44-4354-8868-203f8ffd74ec"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Prestige"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/8835457b-dfa9-43e6-9605-05c6b7d1f697",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/Tuba_Sounds",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/842475-Ray-Draper-Quintet-Tuba-Sounds",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/tuba-sounds-mw0000116509",
+            "title": "AllMusic",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Terry Anne"
+        },
+        {
+            "value": "You're My Thrill"
+        },
+        {
+            "value": "Pivot"
+        },
+        {
+            "value": "Jackie's Dolly"
+        },
+        {
+            "value": "Mimi's Interlude"
+        },
+        {
+            "value": "House of Davis"
+        }
+    ]
+}

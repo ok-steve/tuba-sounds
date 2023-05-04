@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "c3680146-4e44-4354-8868-203f8ffd74ec"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "9e3f7168-a1ff-4fc3-892a-35b39ba2826b"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-05-04T18:33:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "name": [
+        {
+            "value": "Tuba_Sounds.jpg"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Cover art for Tuba Sounds by Ray Draper",
+            "title": null,
+            "width": 316,
+            "height": 316,
+            "target_type": "file",
+            "target_uuid": "7966829a-9ba3-4189-9aaf-0ab36e5e2431"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-04T18:33:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-04T18:33:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Cover art for Tuba Sounds by Ray Draper",
+            "title": "",
+            "width": 316,
+            "height": 316,
+            "target_type": "file",
+            "target_uuid": "7966829a-9ba3-4189-9aaf-0ab36e5e2431"
+        }
+    ]
+}

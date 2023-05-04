@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "13150578-8cd7-447f-b11e-6fd2b562948e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/196ea8f3-6129-4e3b-a947-4044e9f45f3b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/tuba-sounds"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

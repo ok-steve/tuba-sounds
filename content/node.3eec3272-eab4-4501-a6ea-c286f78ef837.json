@@ -1,0 +1,127 @@
+{
+    "uuid": [
+        {
+            "value": "3eec3272-eab4-4501-a6ea-c286f78ef837"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "person",
+            "target_type": "node_type",
+            "target_uuid": "2201a341-1eb7-496e-8d48-9a5d6a12382f"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-04T18:40:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Ray Draper"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-04T18:37:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-04T18:40:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/person\/ray-draper",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>In addition to recording tuba on albums as a leader and sideman, Ray Draper appeared as a vocalist on the soundtrack to the film <a href=\"https:\/\/en.wikipedia.org\/wiki\/Last_Summer\"><em>Last Summer<\/em><\/a> and had his compositions recorded by contemporaries, including:<\/p><ul><li><em>The Biddie Griddies<\/em>,&nbsp;<em>Ugh!<\/em>, and&nbsp;<em>Reflections of Buhaina<\/em> on&nbsp;<a href=\"https:\/\/en.wikipedia.org\/wiki\/A_Midnight_Session_with_the_Jazz_Messengers\"><em>A Midnight Session with the Jazz Messengers<\/em><\/a><\/li><li><em>Jackie's Ghost<\/em> on <a href=\"https:\/\/en.wikipedia.org\/wiki\/Makin%27_the_Changes\"><em>Makin' the Changes<\/em><\/a><\/li><\/ul>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_image": [],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/artist\/fa3721d5-a60a-46e8-96c7-3f2dac744fdd",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/Ray_Draper",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/artist\/708817-Ray-Draper",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/artist\/ray-draper-mn0000343612",
+            "title": "AllMusic",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/id.loc.gov\/authorities\/names\/no92000044.html",
+            "title": "Library of Congress",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.jazzdisco.org\/ray-draper",
+            "title": "Jazz Discography Project",
+            "options": []
+        }
+    ]
+}
