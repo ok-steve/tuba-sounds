@@ -1,13 +1,13 @@
-uuid: 1b617f60-817d-4d33-b435-2d96db61dc29
+uuid: b08c8327-04d6-40c4-a732-05bc058bb39d
 langcode: en
 status: true
 dependencies:
   theme:
-    - olivero
+    - tuba_sounds
 _core:
   default_config_hash: ydSxdq7R66I8UMC460rOzlfzvlUL4VRbdwc6z9DWaUI
-id: olivero_secondary_local_tasks
-theme: olivero
+id: tuba_sounds_secondary_local_tasks
+theme: tuba_sounds
 region: highlighted
 weight: -2
 provider: null

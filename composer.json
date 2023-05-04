@@ -11,6 +11,10 @@
     ],
     "repositories": [
         {
+            "type": "vcs",
+            "url": "https://github.com/ok-steve/normcore-theme"
+        },
+        {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
         }
@@ -30,6 +34,7 @@
         "drupal/simple_sitemap": "^4.1",
         "drupal/tome": "^1.11",
         "drush/drush": "^11.4.0",
+        "ok-steve/normcore": "^1.0@dev",
         "vlucas/phpdotenv": "^5.1",
         "webflo/drupal-finder": "^1.2"
     },
@@ -94,11 +99,20 @@
             "web/modules/contrib/{$name}": [
                 "type:drupal-module"
             ],
+            "web/modules/custom/{$name}": [
+                "type:drupal-custom-module"
+            ],
             "web/profiles/contrib/{$name}": [
                 "type:drupal-profile"
             ],
+            "web/profiles/custom/{$name}": [
+                "type:drupal-custom-profile"
+            ],
             "web/themes/contrib/{$name}": [
                 "type:drupal-theme"
+            ],
+            "web/themes/custom/{$name}": [
+                "type:drupal-custom-theme"
             ],
             "drush/Commands/contrib/{$name}": [
                 "type:drupal-drush"

@@ -1,15 +1,15 @@
-uuid: 14b4e970-8d3a-4902-a65f-7021cac40521
+uuid: d912b3f6-624c-4d3c-a70b-a781a9e3fab1
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - olivero
+    - tuba_sounds
 _core:
   default_config_hash: n_nlgjggHVfQt2H__zvLOKB2YtjPDbQ5tHijF9LE1aM
-id: olivero_site_branding
-theme: olivero
+id: tuba_sounds_site_branding
+theme: tuba_sounds
 region: header
 weight: 0
 provider: null
@@ -21,5 +21,5 @@ settings:
   provider: system
   use_site_logo: true
   use_site_name: true
-  use_site_slogan: false
+  use_site_slogan: true
 visibility: {  }

@@ -63,6 +63,8 @@ module:
   paragraphs: 11
   standard: 1000
 theme:
-  olivero: 0
   claro: 0
+  stable9: 0
+  normcore: 0
+  tuba_sounds: 0
 profile: standard

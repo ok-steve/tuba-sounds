@@ -1,14 +1,14 @@
-uuid: 36bf4caf-3621-4aaa-87fa-5e90445200a6
+uuid: 0a2b1b01-baaa-49eb-a1b3-c3b3b1381d02
 langcode: en
 status: true
 dependencies:
   theme:
-    - olivero
+    - tuba_sounds
 _core:
   default_config_hash: 6aOgWsNTXjqrDm98TXSAjP6qd2nCijD1xw45MrnbK-Y
-id: olivero_page_title
-theme: olivero
-region: content_above
+id: tuba_sounds_page_title
+theme: tuba_sounds
+region: content
 weight: -5
 provider: null
 plugin: page_title_block

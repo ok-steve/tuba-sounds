@@ -1,0 +1,19 @@
+name: Tuba sounds
+type: theme
+'base theme': normcore
+description: A theme for the Tuba Sounds site.
+version: 10.x
+libraries:
+  - tuba_sounds/base
+core_version_requirement: ^10
+regions:
+  header: 'Header'
+  primary_menu: 'Primary menu'
+  secondary_menu: 'Secondary menu'
+  breadcrumb: 'Breadcrumb'
+  highlighted: 'Highlighted'
+  help: 'Help'
+  content: 'Content'
+  sidebar_first: 'Left sidebar'
+  sidebar_second: 'Right sidebar'
+  footer: 'Footer'

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "66ed26918f3a6987de0d0a3c774af978",
+    "content-hash": "de6574068cd515aeea72d3ec727a6962",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -3289,6 +3289,40 @@
                 "source": "https://github.com/nikic/PHP-Parser/tree/v4.15.4"
             },
             "time": "2023-03-05T19:49:14+00:00"
+        },
+        {
+            "name": "ok-steve/normcore",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ok-steve/normcore-theme.git",
+                "reference": "35ccf9717030003a45195752ddf8146265eabbdc"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ok-steve/normcore-theme/zipball/35ccf9717030003a45195752ddf8146265eabbdc",
+                "reference": "35ccf9717030003a45195752ddf8146265eabbdc",
+                "shasum": ""
+            },
+            "require": {
+                "drupal/core": "^10"
+            },
+            "default-branch": true,
+            "type": "drupal-custom-theme",
+            "extra": {
+                "branch-alias": {
+                    "dev-main": "1.0.x-dev"
+                }
+            },
+            "description": "A base Drupal theme using the normcore library.",
+            "keywords": [
+                "Drupal"
+            ],
+            "support": {
+                "source": "https://github.com/ok-steve/normcore-theme/tree/main",
+                "issues": "https://github.com/ok-steve/normcore-theme/issues"
+            },
+            "time": "2023-07-12T15:29:37+00:00"
         },
         {
             "name": "pear/archive_tar",
@@ -11310,7 +11344,8 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "drupal-tome/tome_drush": 20
+        "drupal-tome/tome_drush": 20,
+        "ok-steve/normcore": 20
     },
     "prefer-stable": true,
     "prefer-lowest": false,

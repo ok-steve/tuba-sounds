@@ -1,0 +1,55 @@
+/* ---------------------------------- *\
+  #BLOCKS
+\* ---------------------------------- */
+
+.node--view-mode-teaser {
+  cursor: pointer;
+  position: relative;
+  /* .frame */
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+}
+
+.node--view-mode-teaser h2 {
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.node--view-mode-teaser img {
+  transition: filter 0.2s;
+}
+
+.node--view-mode-teaser:hover h2,
+.node--view-mode-teaser:focus-within h2 {
+  opacity: 1;
+}
+
+.node--view-mode-teaser:hover img,
+.node--view-mode-teaser:focus-within img {
+  filter: blur(1px) opacity(50%);
+}
+
+.node--view-mode-teaser h2 a {
+  /* Make entire area clickable */
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+
+  /* Center text */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  /* Styles */
+  color: inherit;
+  /* background-color: hsla(0, 0%, 100%, 0.5); */
+  text-decoration: none;
+}
+
+.node--view-mode-teaser h2 span {
+  padding: 0.75em;
+}

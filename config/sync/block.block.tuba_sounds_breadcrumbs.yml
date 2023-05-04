@@ -1,15 +1,15 @@
-uuid: 807c96bf-586d-447c-82d6-231be576fec1
+uuid: 6c9fdd4e-87f4-4ee7-8d79-40d185fac25c
 langcode: en
-status: true
+status: false
 dependencies:
   module:
     - system
   theme:
-    - olivero
+    - tuba_sounds
 _core:
   default_config_hash: VhBzWb7lMRtIOg9G7VSw_0uopi-7zXeHq4vXqqV1HFE
-id: olivero_breadcrumbs
-theme: olivero
+id: tuba_sounds_breadcrumbs
+theme: tuba_sounds
 region: breadcrumb
 weight: 0
 provider: null
