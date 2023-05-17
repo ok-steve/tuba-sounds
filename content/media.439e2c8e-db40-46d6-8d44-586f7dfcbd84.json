@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "439e2c8e-db40-46d6-8d44-586f7dfcbd84"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "9e3f7168-a1ff-4fc3-892a-35b39ba2826b"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-05-17T16:03:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "name": [
+        {
+            "value": "Deeds,_Not_Words.jpg"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Cover art for Deeds, Not Words by Max Roach",
+            "title": null,
+            "width": 316,
+            "height": 316,
+            "target_type": "file",
+            "target_uuid": "f5423cae-00cf-46e7-8c8d-707addea9046"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T16:03:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-17T16:03:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Cover art for Deeds, Not Words by Max Roach",
+            "title": "",
+            "width": 316,
+            "height": 316,
+            "target_type": "file",
+            "target_uuid": "f5423cae-00cf-46e7-8c8d-707addea9046"
+        }
+    ]
+}

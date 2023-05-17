@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "874f1853-aa62-4b90-acef-3bf0beff76a6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/4d0362e0-b4a2-4fa5-aab2-a64a93b01a3e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/deeds-not-words"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
