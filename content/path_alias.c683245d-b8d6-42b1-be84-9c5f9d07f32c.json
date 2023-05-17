@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c683245d-b8d6-42b1-be84-9c5f9d07f32c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/58e4efe7-07b1-4d1e-9556-f8b2d4f6aaac"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/max-roach-4-newport"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

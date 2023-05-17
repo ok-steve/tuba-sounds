@@ -1,0 +1,165 @@
+{
+    "uuid": [
+        {
+            "value": "58e4efe7-07b1-4d1e-9556-f8b2d4f6aaac"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-17T16:03:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Max Roach + 4 at Newport"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T16:00:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-17T16:03:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/max-roach-4-newport",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "fb29c67c-9901-4230-8eeb-3bbf32460a9a"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "8f622710-9c95-43f6-abf3-28cccf9f294b"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "6fa1ca4e-2232-43a3-a223-0018a280d9ba"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1958
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "14559c74-bb6e-4dce-a0f1-2166f63ff171"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "EmArcy"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/4fb8c858-12b6-35b1-99e9-c670ca32bfae",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/Max_Roach_%2B_4_at_Newport",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/380388-Max-Roach-4-Max-Roach-4-At-Newport",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/max-roach-4-at-newport-mw0000913897",
+            "title": "AllMusic",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "La Villa"
+        },
+        {
+            "value": "A Night in Tunisia"
+        },
+        {
+            "value": "Deeds, Not Words"
+        },
+        {
+            "value": "Minor Mode"
+        },
+        {
+            "value": "Tune-Up"
+        },
+        {
+            "value": "Love for Sale"
+        }
+    ]
+}

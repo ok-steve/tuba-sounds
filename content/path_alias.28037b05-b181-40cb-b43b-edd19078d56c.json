@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "28037b05-b181-40cb-b43b-edd19078d56c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/9ce31dc3-44d8-4909-957c-8352949d1ed0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/max-roach"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
