@@ -1,0 +1,168 @@
+{
+    "uuid": [
+        {
+            "value": "af6825bb-2fb1-4b2d-9893-2d97d95ccdb1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-17T16:14:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "The Sun, Moon & Herbs"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T16:12:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-17T16:14:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/sun-moon-herbs",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "c95bbe89-31e2-4168-a73a-e2b45a6646b8"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "2a48007a-e4e0-46b7-8f6d-5d99145dbcfe"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "a159647c-13c1-4f69-863a-34bc73081a49"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1971
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "749f5ad8-fd17-48d0-aec0-cadc6ab2ee78"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Atlantic"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/2b962ae7-3bab-3d10-aa94-ffe225e9e4ac",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/The_Sun,_Moon_%26_Herbs",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/49097-Dr-JohnNight-Tripper-The-Sun-Moon-Herbs",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/the-sun-moon-herbs-mw0000659208",
+            "title": "AllMusic",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Black John the Conqueror"
+        },
+        {
+            "value": "Where Ya at Mule"
+        },
+        {
+            "value": "Craney Crow"
+        },
+        {
+            "value": "Familiar Reality (Opening)"
+        },
+        {
+            "value": "Pots on Fiyo (Fil\u00e9 Gumbo) \/ Who I Got to Fall On (If the Pot Get Heavy)"
+        },
+        {
+            "value": "Zu Zu Mamou"
+        },
+        {
+            "value": "Familiar Reality (Reprise)"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "2a48007a-e4e0-46b7-8f6d-5d99145dbcfe"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "role",
+            "target_type": "paragraphs_type",
+            "target_uuid": "1ff8b525-8e0d-490f-ab8d-934feed0001a"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T16:12:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_content": [
+        {
+            "target_type": "node",
+            "target_uuid": "71d8d2b6-2397-4e3d-8b0e-0a3bd56b8456"
+        }
+    ],
+    "field_role_name": [
+        {
+            "value": "vocals, piano, organ, guitar, vibes, percussion"
+        }
+    ]
+}

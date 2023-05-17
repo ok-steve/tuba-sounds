@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9598eaeb-73de-4c72-94a0-f90e6e6d1226"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/71d8d2b6-2397-4e3d-8b0e-0a3bd56b8456"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/dr-john"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

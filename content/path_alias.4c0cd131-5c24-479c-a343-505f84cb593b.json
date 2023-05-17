@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4c0cd131-5c24-479c-a343-505f84cb593b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/af6825bb-2fb1-4b2d-9893-2d97d95ccdb1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/sun-moon-herbs"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
