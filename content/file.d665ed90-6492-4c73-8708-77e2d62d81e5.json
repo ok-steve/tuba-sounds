@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "d665ed90-6492-4c73-8708-77e2d62d81e5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Who_Knows_What_Tomorow's_Gonna_Bring.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-05\/Who_Knows_What_Tomorow's_Gonna_Bring.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 10916
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T15:48:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-17T15:48:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

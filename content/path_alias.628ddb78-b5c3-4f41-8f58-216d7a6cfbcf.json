@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "628ddb78-b5c3-4f41-8f58-216d7a6cfbcf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/03903d25-b9df-447d-bf50-170126f25218"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/brother-jack-mcduff"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

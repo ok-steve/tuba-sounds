@@ -1,0 +1,165 @@
+{
+    "uuid": [
+        {
+            "value": "1738a1cf-098c-4c98-91c6-5b0d19f5dce5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-17T15:50:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Who Knows What Tomorrow's Gonna Bring?"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T15:48:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-17T15:50:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/who-knows-what-tomorrows-gonna-bring",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "3ad61637-f34f-4436-90c8-1704768da626"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "9647840d-b73f-4094-af9c-12937d48f145"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "efbb7b88-4218-4337-a537-fa29cce52627"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1970
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "581ef3b9-472a-44f2-89d1-118a3e79f2cd"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Blue Note"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/696ecbce-0b35-3ce3-94eb-3421d218d794",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/Who_Knows_What_Tomorrow%27s_Gonna_Bring%3F",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/856855-Brother-Jack-McDuff-Who-Knows-What-Tomorrows-Gonna-Bring",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/who-knows-what-tomorrows-gonna-bring--mw0000258106",
+            "title": "AllMusic",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Who Knows What Tomorrow's Gonna Bring?"
+        },
+        {
+            "value": "Ya Ya Ya Ya Ya Ya"
+        },
+        {
+            "value": "Who's Pimpin' Who?"
+        },
+        {
+            "value": "Classic Funke"
+        },
+        {
+            "value": "Ya'll Remember Boogie?"
+        },
+        {
+            "value": "Wank's Thang"
+        }
+    ]
+}
