@@ -1,0 +1,156 @@
+{
+    "uuid": [
+        {
+            "value": "d6114839-dc79-4260-8093-bf33690e011b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-17T16:11:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "There's a Trumpet in My Soul"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T16:08:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-17T16:11:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/theres-trumpet-my-soul",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "c035ea36-f9dc-4fe9-8dfe-2c5ad5afeebe"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "c9534635-64a5-4e41-a396-f74986cbda58"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "faae4efd-8698-4c1f-9f07-a153d7a7375e"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1975
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "644c5430-48d1-4a50-8109-f5afd5df9f43"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Arista Freedom"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/5400601c-103e-4aa8-ab8c-d0151bc49e88",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/There%27s_a_Trumpet_in_My_Soul",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/215995-Archie-Shepp-Theres-A-Trumpet-In-My-Soul",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/theres-a-trumpet-in-my-soul-mw0000652216",
+            "title": "AllMusic",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "There's a Trumpet in My Soul Suite Part 1: There's a Trumpet in My Soul\/Samba da Rua\/Zaid, Part 1"
+        },
+        {
+            "value": "Down in Brazil"
+        },
+        {
+            "value": "There's a Trumpet in My Soul Suite Part 2: Zaid, Part 2\/It Is the Year of the Rabbit\/Zaid, Part 3"
+        }
+    ]
+}

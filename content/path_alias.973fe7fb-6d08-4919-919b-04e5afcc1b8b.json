@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "973fe7fb-6d08-4919-919b-04e5afcc1b8b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a315705c-0ea1-4de1-a388-762d57086a98"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/archie-sheep"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
