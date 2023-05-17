@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f7fbc2a9-1fbc-4899-b084-4418eabf1b0f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/acb45926-0cc3-4a1f-bc40-0d7dd99fc276"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/stuart-brotman"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

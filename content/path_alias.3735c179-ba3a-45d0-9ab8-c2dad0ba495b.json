@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3735c179-ba3a-45d0-9ab8-c2dad0ba495b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b970c0f0-4c77-4621-ae72-b2c8f9232f70"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/cathy-chamberlain"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
