@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "aa6d4692-93c5-4597-ac78-a86f10653dc0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f0fb3fec-7ab9-4211-afd6-6a2afaf01356"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/jackie-mclean-co"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
