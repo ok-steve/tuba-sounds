@@ -1,0 +1,168 @@
+{
+    "uuid": [
+        {
+            "value": "2bb303b3-0802-40d4-9bd7-79f5875328e4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-17T16:08:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Award-Winning Drummer"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T16:06:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-17T16:08:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/award-winning-drummer",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "faf20837-2621-4858-8404-71234b15b7c8"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "7ce51e2a-3343-42ff-b38d-038984f1fb75"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "48a52f71-64e4-402f-bbe9-674060bccd14"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1959
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "106b0d06-01ec-4b0c-8cd3-da35f09a9d87"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Time"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/45d006ea-7e87-321c-93f3-22a47049f426",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/Award-Winning_Drummer",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/338420-Max-Roach-Award-Winning-Drummer",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/award-winning-drummer-mw0000270536",
+            "title": "AllMusic",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Tuba de Nod"
+        },
+        {
+            "value": "Milano"
+        },
+        {
+            "value": "Variations on the Scene"
+        },
+        {
+            "value": "Pies of Quincy"
+        },
+        {
+            "value": "Old Folks"
+        },
+        {
+            "value": "Sadiga"
+        },
+        {
+            "value": "Gandolfo's Bounce"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "39ff8637-938e-49bb-bc32-de79a96349b5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2bb303b3-0802-40d4-9bd7-79f5875328e4"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/award-winning-drummer"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
