@@ -1,0 +1,161 @@
+{
+    "uuid": [
+        {
+            "value": "e344d6f3-17ec-44a0-80e7-053189f8f0f0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-17T15:39:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "A Tuba Jazz"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T15:35:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-17T15:39:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/tuba-jazz",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Reissued as the John Coltrane album, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Like_Sonny\">Like Sonny<\/a>.<\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "e1855406-9acb-4b95-92c3-9df8e1ed7bcb"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "d7119107-5b5b-4999-8a80-4270ae8f4ea2"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "3297f9a0-038c-4162-a83c-aeddf1a8e60f"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1959
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "03b291e0-5d23-491a-ae1c-3c8a07cd3bb1"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Jubilee"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/5e3dd8f4-ff2d-4250-999e-66c8bcff201b",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/570099-Ray-Draper-A-Tuba-Jazz",
+            "title": "Discogs",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Essi's Dance"
+        },
+        {
+            "value": "Doxy"
+        },
+        {
+            "value": "Oleo"
+        },
+        {
+            "value": "I Talk to the Trees"
+        },
+        {
+            "value": "Yesterdays"
+        },
+        {
+            "value": "Angel Eyes"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d45192ed-0a2c-4f32-b82c-d59ffa909cc3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e344d6f3-17ec-44a0-80e7-053189f8f0f0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/tuba-jazz"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
