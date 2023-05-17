@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "eea644eb-0650-4194-9c05-97f21bb97716"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5e4db9df-ae93-4774-812d-2fc2c59f28d8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/strange-blues"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
