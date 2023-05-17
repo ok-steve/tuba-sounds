@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "23e4d76c-5e09-46e7-ac32-e14ac876b5bf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a3ba7b9e-06bb-414c-b4ac-9d99e3fd2561"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/luis-gasca"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

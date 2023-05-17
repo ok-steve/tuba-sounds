@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a35bf2f4-57dc-4c7a-8958-54e2e4accf5c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b73695bf-82bf-47ab-9121-c932b8b2aadb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/collage"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

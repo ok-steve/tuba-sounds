@@ -1,0 +1,160 @@
+{
+    "uuid": [
+        {
+            "value": "b73695bf-82bf-47ab-9121-c932b8b2aadb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-17T16:22:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Collage"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T16:20:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-17T16:22:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/collage",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "f7ef0e5b-5826-43e9-99c8-7b996802f020"
+        },
+        {
+            "target_type": "media",
+            "target_uuid": "e51a500f-5af7-4d07-a033-68508194c38b"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "015640e6-4675-49d1-b00b-87f00b64c84c"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "1cb1a5ac-b938-44a3-8031-3a718602a8c6"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1976
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "dbad4ca8-a891-4807-b184-f4f27a85f00a"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Fantasy"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/709222-Luis-Gasca-Collage",
+            "title": "Discogs",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Collage"
+        },
+        {
+            "value": "The Way I Feel Sometimes"
+        },
+        {
+            "value": "Patrice"
+        },
+        {
+            "value": "Kathy"
+        },
+        {
+            "value": "Sara"
+        },
+        {
+            "value": "Night People"
+        },
+        {
+            "value": "Invitation To Love"
+        },
+        {
+            "value": "Visions"
+        }
+    ]
+}
