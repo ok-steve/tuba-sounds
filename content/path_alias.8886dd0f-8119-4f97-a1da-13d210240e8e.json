@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8886dd0f-8119-4f97-a1da-13d210240e8e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/632677e7-6969-4af3-85f7-83884c3d4694"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/fat-jazz"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

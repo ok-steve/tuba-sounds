@@ -1,0 +1,157 @@
+{
+    "uuid": [
+        {
+            "value": "632677e7-6969-4af3-85f7-83884c3d4694"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-17T15:59:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Fat Jazz"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T15:57:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-17T15:59:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/fat-jazz",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "fa43d8d1-fb90-4599-9ab0-45d55dd57763"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "cd5c9f5e-242e-4741-b94d-767b092f69de"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "42e0d38a-11a0-47c9-b0e2-821cd62aadee"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1959
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "b7fb9354-feb1-49a3-b338-1885da94be46"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Jubilee"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/03eb4e81-e40d-3f59-9459-87bed28d25d2",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/Fat_Jazz",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/727732-Jackie-McLean-Sextet-Fat-Jazz",
+            "title": "Discogs",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Filid\u00e9"
+        },
+        {
+            "value": "Millie's Pad"
+        },
+        {
+            "value": "Two Sons"
+        },
+        {
+            "value": "What Good Am I Without You?"
+        },
+        {
+            "value": "Tune Up"
+        }
+    ]
+}
