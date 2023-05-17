@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "52705a7b-6060-42f8-9683-e0b2950791b9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "9e3f7168-a1ff-4fc3-892a-35b39ba2826b"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-05-17T15:45:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "name": [
+        {
+            "value": "Sonny's_Dream.jpg"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Cover art for Sonny's Dream by Sonny Criss",
+            "title": null,
+            "width": 280,
+            "height": 286,
+            "target_type": "file",
+            "target_uuid": "b9ac5ffb-05f6-4620-b265-7d35e8a5ae73"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T15:45:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-17T15:45:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Cover art for Sonny's Dream by Sonny Criss",
+            "title": "",
+            "width": 280,
+            "height": 286,
+            "target_type": "file",
+            "target_uuid": "b9ac5ffb-05f6-4620-b265-7d35e8a5ae73"
+        }
+    ]
+}

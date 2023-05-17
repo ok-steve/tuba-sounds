@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "a7e6eb12-3327-4ffa-8a7e-0a03aabdc5d7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "role",
+            "target_type": "paragraphs_type",
+            "target_uuid": "1ff8b525-8e0d-490f-ab8d-934feed0001a"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T15:45:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_content": [
+        {
+            "target_type": "node",
+            "target_uuid": "45752f76-aa9d-47ed-80f5-1835d3a05bda"
+        }
+    ],
+    "field_role_name": [
+        {
+            "value": "alto saxophone, soprano saxophone"
+        }
+    ]
+}

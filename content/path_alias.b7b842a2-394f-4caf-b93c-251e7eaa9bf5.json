@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b7b842a2-394f-4caf-b93c-251e7eaa9bf5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/45752f76-aa9d-47ed-80f5-1835d3a05bda"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/sonny-criss"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

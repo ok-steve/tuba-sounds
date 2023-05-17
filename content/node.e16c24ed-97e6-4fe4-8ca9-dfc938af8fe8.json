@@ -1,0 +1,165 @@
+{
+    "uuid": [
+        {
+            "value": "e16c24ed-97e6-4fe4-8ca9-dfc938af8fe8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-17T15:47:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Sonny's Dream (Birth of the New Cool)"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T15:44:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-17T15:47:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/sonnys-dream-birth-new-cool",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "56194a23-ec02-4804-af34-2c81186b8439"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "a7e6eb12-3327-4ffa-8a7e-0a03aabdc5d7"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "525d16e1-3878-404f-8a34-fb501fef1ff3"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1968
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "52705a7b-6060-42f8-9683-e0b2950791b9"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Prestige"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/9d85a714-7915-321d-8124-a21c9fb0865f",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/Sonny%27s_Dream_(Birth_of_the_New_Cool)",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/393495-The-Sonny-Criss-Orchestra-Sonnys-Dream-Birth-Of-The-New-Cool",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/sonnys-dream-birth-of-the-new-cool-mw0000087973",
+            "title": "AllMusic",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Sonny's Dream"
+        },
+        {
+            "value": "Ballad for Samuel"
+        },
+        {
+            "value": "The Black Apostles"
+        },
+        {
+            "value": "The Golden Pearl"
+        },
+        {
+            "value": "Daughter of Cochise"
+        },
+        {
+            "value": "Sandy and Niles"
+        }
+    ]
+}
