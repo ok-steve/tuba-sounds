@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2a7ca5dc-5218-49bb-b94f-5c04ce97d7ce"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7e86382c-e82f-48df-87ab-9da2ae4c47fb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/elements-now"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

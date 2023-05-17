@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bc4b740a-f1db-4e32-9e2b-5c59c9ebd156"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7a3a2edc-5bc8-4fb5-bbb8-92da742458d6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/big-black"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

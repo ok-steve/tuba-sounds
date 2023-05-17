@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f8904237-a6a0-49d8-8179-36d2832d93f8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/108e57fa-693a-4bee-b279-4e6bfc898e8c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/howard-johnson"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

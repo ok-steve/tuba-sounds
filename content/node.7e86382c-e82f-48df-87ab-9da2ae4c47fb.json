@@ -1,0 +1,154 @@
+{
+    "uuid": [
+        {
+            "value": "7e86382c-e82f-48df-87ab-9da2ae4c47fb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-17T16:36:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Elements of Now!"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T16:33:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-17T16:36:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/elements-now",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "12bb308b-c774-4eb4-a036-6d1d04bad446"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "8ef06825-c143-4f55-b1bb-4db480ef60f0"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "41341394-3e8e-4934-99ae-b25bf829f35f"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "2468ed80-ac03-4cd7-9d4a-a64658f3024a"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1968
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "c8706707-9fcc-4f09-b380-33f0caf5a69d"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "UNI Records"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/566320-Big-Black-Elements-Of-Now",
+            "title": "Discogs",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Elements Of Now"
+        },
+        {
+            "value": "Low Gravy"
+        },
+        {
+            "value": "Lady Mack"
+        },
+        {
+            "value": "La De Da"
+        },
+        {
+            "value": "Come On And Get It, Baby (If You Want It)"
+        },
+        {
+            "value": "Burundi Pose"
+        }
+    ]
+}
