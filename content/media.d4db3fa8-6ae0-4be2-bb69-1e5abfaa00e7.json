@@ -1,0 +1,88 @@
+{
+    "uuid": [
+        {
+            "value": "d4db3fa8-6ae0-4be2-bb69-1e5abfaa00e7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "remote_audio",
+            "target_type": "media_type",
+            "target_uuid": "3d586c7b-1384-46ec-aa3a-c5812d8ade61"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-05-17T15:43:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "name": [
+        {
+            "value": "Red Beans & Rice Featuring Spare Ribs"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "",
+            "title": null,
+            "width": 480,
+            "height": 360,
+            "target_type": "file",
+            "target_uuid": "eef1cd9f-b70f-40e9-aa09-5d61bd97b1ac"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T15:43:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-17T15:43:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "field_media_oembed_audio": [
+        {
+            "value": "https:\/\/www.youtube.com\/playlist?list=OLAK5uy_k8Ut5IokaGOcrMA3SKBwtZd9aBZPPMz8U"
+        }
+    ]
+}

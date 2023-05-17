@@ -1,0 +1,156 @@
+{
+    "uuid": [
+        {
+            "value": "da3eb94d-23b8-44ea-9f47-178d81158c96"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-17T15:43:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Red Beans & Rice featuring Ray Draper"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T15:41:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-17T15:43:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/red-beans-rice-featuring-ray-draper",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "d4db3fa8-6ae0-4be2-bb69-1e5abfaa00e7"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "92794288-f62f-442f-861d-767d9741601f"
+        }
+    ],
+    "field_contributor": [],
+    "field_date_published": [
+        {
+            "value": 1969
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "6da410b6-4168-44ed-835e-82c180ff0acf"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Epic"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/6c71076a-f69a-4cea-ac46-7c016711db6a",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/1352989-Red-Beans-Rice-Featuring-Ray-Draper-Red-Beans-Rice-Featuring-Spare-Ribs",
+            "title": "Discogs",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Happiness"
+        },
+        {
+            "value": "Empty Streets"
+        },
+        {
+            "value": "Trilogy"
+        },
+        {
+            "value": "Gentle Old Sea"
+        },
+        {
+            "value": "Let My People Go"
+        },
+        {
+            "value": "Mess Around"
+        },
+        {
+            "value": "Home"
+        },
+        {
+            "value": "If You Ever Wanna"
+        }
+    ]
+}
