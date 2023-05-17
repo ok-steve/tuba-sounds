@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "473ab251-8aa8-42ed-bb71-cacc3dd19333"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f3fc6994-fb78-471f-9164-da222667668f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/roger-bobo"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

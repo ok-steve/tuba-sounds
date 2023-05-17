@@ -1,0 +1,171 @@
+{
+    "uuid": [
+        {
+            "value": "1415d3f3-64fc-49cc-8471-e7324011c94e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-17T16:53:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "The Mason Williams Ear Show"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T16:50:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-17T16:53:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/mason-williams-ear-show",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "087dd9d9-0bfe-4ae0-979b-8a21ab6da648"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "373f9d99-b66d-4673-b2c9-326c83353684"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "31195642-86cd-4480-96fd-89d1ede6b8cd"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "fadbea17-2953-453c-98f2-7e592d68b27b"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1968
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "adab03cd-d83a-4ac4-bbf5-6891d8139f5f"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Warner Bros."
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/376241-Mason-Williams-The-Mason-Williams-Ear-Show",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/the-mason-williams-ear-show-mw0000848271",
+            "title": "AllMusic",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Road Song"
+        },
+        {
+            "value": "Baroque-a-nova"
+        },
+        {
+            "value": "(Whistle) Hear"
+        },
+        {
+            "value": "The Last Great Waltz"
+        },
+        {
+            "value": "One Minute Commercial"
+        },
+        {
+            "value": "$13 Stella"
+        },
+        {
+            "value": "Love Are Wine"
+        },
+        {
+            "value": "Cinderella-Rockafella"
+        },
+        {
+            "value": "Generatah-Oscillatah"
+        },
+        {
+            "value": "Saturday Night at the World"
+        }
+    ]
+}

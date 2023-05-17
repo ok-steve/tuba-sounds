@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "373f9d99-b66d-4673-b2c9-326c83353684"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "role",
+            "target_type": "paragraphs_type",
+            "target_uuid": "1ff8b525-8e0d-490f-ab8d-934feed0001a"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T16:50:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_content": [
+        {
+            "target_type": "node",
+            "target_uuid": "a965ac04-7935-4861-bb29-e88c8000da32"
+        }
+    ],
+    "field_role_name": [
+        {
+            "value": "guitar"
+        }
+    ]
+}

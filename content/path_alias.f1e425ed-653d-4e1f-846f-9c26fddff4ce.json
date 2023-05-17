@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f1e425ed-653d-4e1f-846f-9c26fddff4ce"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1415d3f3-64fc-49cc-8471-e7324011c94e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/mason-williams-ear-show"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

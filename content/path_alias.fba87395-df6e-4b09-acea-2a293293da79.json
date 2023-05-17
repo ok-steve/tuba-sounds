@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "fba87395-df6e-4b09-acea-2a293293da79"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a965ac04-7935-4861-bb29-e88c8000da32"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/mason-williams"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
