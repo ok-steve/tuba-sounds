@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5a0fd9b6-7e0f-424c-9391-d260ab7d5205"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/d889097e-f98d-4f8b-a7ec-4475581cdc32"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/sun-ra"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

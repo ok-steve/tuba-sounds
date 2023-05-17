@@ -1,0 +1,159 @@
+{
+    "uuid": [
+        {
+            "value": "efdd3c45-d6ee-4763-a2c2-a4e6b89cfb14"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-17T16:56:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Dance of Innocent Passion"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-17T16:54:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-17T16:56:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/dance-innocent-passion",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "ab78aa9e-95ce-49f5-9122-3c252548d860"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "56dcb05c-7ec1-4ddf-a763-bd08543c3463"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "0f84ffa4-6863-45ed-9850-d143f1fde7c0"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1981
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "87de1ca3-5fc4-4a39-9620-78d89f5095e2"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "El Saturn Records"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/2684b05e-b68f-3d75-b168-d299cb1903db",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/481938-Sun-Ra-And-His-Arkestra-Dance-Of-Innocent-Passion",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/dance-of-innocent-passion-mw0001360345",
+            "title": "AllMusic",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/sunramusic.bandcamp.com\/album\/dance-of-innocent-passion",
+            "title": "Bandcamp",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Dance of Innocent Passion"
+        },
+        {
+            "value": "Omnisonicism"
+        },
+        {
+            "value": "Intensity"
+        },
+        {
+            "value": "Cosmo-Energy"
+        }
+    ]
+}
