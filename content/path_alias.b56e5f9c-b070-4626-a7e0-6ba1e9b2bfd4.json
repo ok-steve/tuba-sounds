@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b56e5f9c-b070-4626-a7e0-6ba1e9b2bfd4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/61e4199b-c505-4d67-9304-63dedfa18ca0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/buddy-collette"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

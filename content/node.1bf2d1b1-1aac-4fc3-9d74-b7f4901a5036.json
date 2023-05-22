@@ -1,0 +1,116 @@
+{
+    "uuid": [
+        {
+            "value": "1bf2d1b1-1aac-4fc3-9d74-b7f4901a5036"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "person",
+            "target_type": "node_type",
+            "target_uuid": "2201a341-1eb7-496e-8d48-9a5d6a12382f"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-22T19:16:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Red Callender"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-22T19:14:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-22T19:16:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/person\/red-callender",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "c0e04a85-c7f0-486b-aceb-036501cdc149"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/artist\/60c34576-6819-4e75-9fa7-a734ef2ecd87",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/Red_Callender",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/artist\/272014-Red-Callender",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/id.loc.gov\/authorities\/names\/n86069627.html",
+            "title": "Library of Congress",
+            "options": []
+        }
+    ]
+}

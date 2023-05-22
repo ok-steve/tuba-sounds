@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "cd1c77f0-deb3-4836-9c6e-4603e7aee13f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7129573c-1933-4584-9ae1-b8dc1f4f6d48"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/callender-speaks-low"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
