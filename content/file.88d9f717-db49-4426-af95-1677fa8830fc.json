@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "88d9f717-db49-4426-af95-1677fa8830fc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "filename": [
+        {
+            "value": "The_Lowest.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-05\/The_Lowest.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 22809
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-25T18:23:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-25T18:23:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}
