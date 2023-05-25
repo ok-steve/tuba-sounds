@@ -1,0 +1,154 @@
+{
+    "uuid": [
+        {
+            "value": "b653363f-fc66-404f-810c-e0c539de2ab6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-25T18:31:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Night Mist Blues"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-25T18:29:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-25T18:31:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/night-mist-blues",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "717b66c6-6563-4197-8b4f-ba7ad2505e30"
+        }
+    ],
+    "field_contributor": [],
+    "field_date_published": [
+        {
+            "value": 1984
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "d638d898-1f7f-448e-a77f-bd7c81e2dd89"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Hemisphere"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/www.discogs.com\/release\/8550196-Red-Callender-Gerry-Wiggins-Featuring-Sherman-Ferguson-Night-Mist-Blues",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/night-mist-blues-mw0000916834",
+            "title": "AllMusic",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Night Mist Blues"
+        },
+        {
+            "value": "With Wind & Rain in Your Hair"
+        },
+        {
+            "value": "Lush Life"
+        },
+        {
+            "value": "Edie Was a Sweetie"
+        },
+        {
+            "value": "Sonar"
+        },
+        {
+            "value": "Merry-Go-Round"
+        },
+        {
+            "value": "Some Other Kind of Blues"
+        },
+        {
+            "value": "The Way You Look Tonight"
+        },
+        {
+            "value": "Baby I'm Gone"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "d638d898-1f7f-448e-a77f-bd7c81e2dd89"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "9e3f7168-a1ff-4fc3-892a-35b39ba2826b"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-05-25T18:30:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "name": [
+        {
+            "value": "Night_Mist_Blues.jpg"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Cover art for Night Mist Blues by Red Callender",
+            "title": null,
+            "width": 599,
+            "height": 588,
+            "target_type": "file",
+            "target_uuid": "d9d95f2c-8c57-45b6-94e4-6ccff93e8e5b"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-25T18:30:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-25T18:30:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Cover art for Night Mist Blues by Red Callender",
+            "title": "",
+            "width": 599,
+            "height": 588,
+            "target_type": "file",
+            "target_uuid": "d9d95f2c-8c57-45b6-94e4-6ccff93e8e5b"
+        }
+    ]
+}

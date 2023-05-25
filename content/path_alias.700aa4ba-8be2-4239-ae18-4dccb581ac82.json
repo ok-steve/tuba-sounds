@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "700aa4ba-8be2-4239-ae18-4dccb581ac82"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b653363f-fc66-404f-810c-e0c539de2ab6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/night-mist-blues"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
