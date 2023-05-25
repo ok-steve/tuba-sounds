@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c332021a-3f6f-4f6d-813b-2de44c9bde0f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/74383d85-36fd-453e-a013-76fd9923eda3"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/jazz-loves-paris"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
