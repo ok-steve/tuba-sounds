@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f9af2ddd-a1ae-480a-85e1-00b572331d91"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/888dee56-f29d-4d5e-8b4e-bda662f6af35"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/louis-bellson"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

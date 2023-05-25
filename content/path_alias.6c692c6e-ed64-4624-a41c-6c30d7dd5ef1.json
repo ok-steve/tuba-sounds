@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6c692c6e-ed64-4624-a41c-6c30d7dd5ef1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6346a733-33d6-4c54-b3da-813c4a8775ed"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/big-band-jazz-summit"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

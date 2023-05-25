@@ -1,0 +1,178 @@
+{
+    "uuid": [
+        {
+            "value": "6346a733-33d6-4c54-b3da-813c4a8775ed"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-25T18:34:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Big Band Jazz from the Summit"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-25T18:32:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-25T18:34:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/big-band-jazz-summit",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "3c9bd7a8-9102-4182-b347-d96a9bfa86d6"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "ca8ccab4-55ed-41d6-b085-4b1702c94643"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "4a4205b3-7538-42e7-a662-ead6aaf70a25"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1962
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "ce8a57a0-b897-4b01-8ddd-c76e01c150b1"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Roulette"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/ae18c139-9ddc-4400-a40c-e5e513cbf144",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/Big_Band_Jazz_from_the_Summit",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/320497-Louis-Bellson-Big-Band-Jazz-From-The-Summit",
+            "title": "Discogs",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Who's Who"
+        },
+        {
+            "value": "Cool"
+        },
+        {
+            "value": "Amoroso"
+        },
+        {
+            "value": "Prelude"
+        },
+        {
+            "value": "Gumshoe"
+        },
+        {
+            "value": "Blitzen"
+        },
+        {
+            "value": "St. Louie"
+        },
+        {
+            "value": "The Moon Is Low"
+        },
+        {
+            "value": "Doozy"
+        },
+        {
+            "value": "Lou\u2019s Blues"
+        },
+        {
+            "value": "With Bells On"
+        },
+        {
+            "value": "The Diplomat Speaks"
+        }
+    ]
+}
