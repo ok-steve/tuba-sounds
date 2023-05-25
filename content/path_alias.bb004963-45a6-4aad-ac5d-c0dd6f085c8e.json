@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bb004963-45a6-4aad-ac5d-c0dd6f085c8e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2d5597d1-42c8-414c-9f3a-cce45ed55d24"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/basin-street-brass"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

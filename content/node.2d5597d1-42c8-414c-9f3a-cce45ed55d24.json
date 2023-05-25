@@ -1,0 +1,157 @@
+{
+    "uuid": [
+        {
+            "value": "2d5597d1-42c8-414c-9f3a-cce45ed55d24"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-25T18:29:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Basin Street Brass"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-25T18:27:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-25T18:29:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/basin-street-brass",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "b00d2a7a-209f-4b6f-9690-43adad9eaa9d"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "c3ed4078-a697-4f11-ae7a-996c64897331"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1973
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "9ab9395a-4164-487b-b19d-1c9ff7ed2e4c"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Legend"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/www.discogs.com\/release\/10830736-Red-Callender-Basin-Street-Brass",
+            "title": "Discogs",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Basin Street Blues"
+        },
+        {
+            "value": "Primrose Lane"
+        },
+        {
+            "value": "When the Saints Go Marching In"
+        },
+        {
+            "value": "Just a Closer Walk with Thee"
+        },
+        {
+            "value": "Sophisticated Lady"
+        },
+        {
+            "value": "Dedicated to the Blues"
+        },
+        {
+            "value": "I Want a Little Girl"
+        },
+        {
+            "value": "Magna"
+        },
+        {
+            "value": "Fat Cat"
+        },
+        {
+            "value": "Lush Life"
+        }
+    ]
+}
