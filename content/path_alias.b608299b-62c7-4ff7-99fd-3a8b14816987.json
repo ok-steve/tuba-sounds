@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b608299b-62c7-4ff7-99fd-3a8b14816987"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1b7a4ac2-6ce6-4f52-b8c4-909f34a3f6da"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/dauwhe"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

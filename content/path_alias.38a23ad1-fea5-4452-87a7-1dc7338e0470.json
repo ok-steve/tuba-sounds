@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "38a23ad1-fea5-4452-87a7-1dc7338e0470"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/acaadb58-bf7f-402d-9067-6fc933a99ff7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/john-carter"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

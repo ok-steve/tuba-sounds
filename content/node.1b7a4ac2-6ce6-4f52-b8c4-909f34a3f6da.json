@@ -1,0 +1,157 @@
+{
+    "uuid": [
+        {
+            "value": "1b7a4ac2-6ce6-4f52-b8c4-909f34a3f6da"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-25T18:37:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Dauwhe"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-25T18:36:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-25T18:37:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/dauwhe",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "067096d6-971d-4e4a-990e-3ea18a629109"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "9adcf294-39ae-4318-b450-65a14c8ca837"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "c10f170f-c368-4902-84af-7248b6e3bed6"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1982
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "586f3390-7560-4450-98e1-7d9a518da838"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Black Saint"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/dfd2ba82-e68e-44c0-bc19-7220f27a648c",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/Dauwhe",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/dauwhe-mw0000187959",
+            "title": "AllMusic",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Dauwhe"
+        },
+        {
+            "value": "Ode to the Flower Maiden"
+        },
+        {
+            "value": "Enter from the East"
+        },
+        {
+            "value": "Soft Dance"
+        },
+        {
+            "value": "The Mating Ritual"
+        }
+    ]
+}
