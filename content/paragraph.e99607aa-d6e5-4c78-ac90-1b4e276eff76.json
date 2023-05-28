@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "e99607aa-d6e5-4c78-ac90-1b4e276eff76"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "role",
+            "target_type": "paragraphs_type",
+            "target_uuid": "1ff8b525-8e0d-490f-ab8d-934feed0001a"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-28T18:28:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_content": [
+        {
+            "target_type": "node",
+            "target_uuid": "61e4199b-c505-4d67-9304-63dedfa18ca0"
+        }
+    ],
+    "field_role_name": [
+        {
+            "value": "saxophone, flute, clarinet"
+        }
+    ]
+}

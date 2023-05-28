@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1d19a9f0-a972-499a-ad89-9c6ecfe18c77"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e6acdd31-f559-4bab-a7c8-4b3a3e3e82a5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/selling-boats-and-all-jazz"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

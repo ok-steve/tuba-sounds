@@ -1,0 +1,167 @@
+{
+    "uuid": [
+        {
+            "value": "e6acdd31-f559-4bab-a7c8-4b3a3e3e82a5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-28T18:31:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Selling Boats and All That Jazz"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-28T18:28:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-28T18:31:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/selling-boats-and-all-jazz",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Soundtrack to a presumably industrial film, <em>Glasspar Makes Your 1960 Sales Picture<\/em>.<\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "7298fdf7-41f2-45a3-886b-6bb711dced56"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "e99607aa-d6e5-4c78-ac90-1b4e276eff76"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "fbd71c10-4678-4bc0-bf19-b54c1a2c3776"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1960
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "81e9d6b2-aab1-4c3b-958a-134d5aa4b5f0"
+        }
+    ],
+    "field_publisher": [],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/www.discogs.com\/release\/9536469-Buddy-Collette-Red-Callender-Earl-Palmer-Gerald-Wilson-Selling-Boats-All-That-Jazz",
+            "title": "Discogs",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Briefcase Intrigue"
+        },
+        {
+            "value": "Tidal Riff"
+        },
+        {
+            "value": "The Bahamian Bit"
+        },
+        {
+            "value": "Opus in G-3"
+        },
+        {
+            "value": "Mysticfied"
+        },
+        {
+            "value": "Speedy"
+        },
+        {
+            "value": "Seafair Chanty"
+        },
+        {
+            "value": "Wisconsin Wonderland"
+        },
+        {
+            "value": "Jazzpar"
+        },
+        {
+            "value": "Swingin' on the Skis"
+        },
+        {
+            "value": "Playback Catalog"
+        }
+    ]
+}
