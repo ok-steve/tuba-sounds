@@ -1,0 +1,177 @@
+{
+    "uuid": [
+        {
+            "value": "b60c857d-56e7-469b-9bb4-f37f5b2601bb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-29T01:36:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Makin' a Move"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T01:34:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T01:36:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/makin-move",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "20a28b65-a303-40a4-b167-0f35601b2349"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "9f76ccea-684d-4fc0-9567-7c577712d355"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "15f4abfd-7ed4-411b-a21e-dcc70ef18369"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "bee740e6-39ef-44fb-8743-8ed31b371b95"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1995
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "897e4d5b-568c-4319-ad85-ed9db1a8638a"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Columbia"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/fda0a118-d277-3ffd-8439-210bbb39c751",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/Makin%27_a_Move",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/769866-Henry-Threadgill-Makin-A-Move",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/makin-a-move-mw0000645302",
+            "title": "AllMusic",
+            "options": []
+        }
+    ],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2639b5ed-d84c-49cc-8359-002249c786f1"
+        }
+    ],
+    "field_track": [
+        {
+            "value": "Noisy Flowers"
+        },
+        {
+            "value": "Like It Feels"
+        },
+        {
+            "value": "Official Silence"
+        },
+        {
+            "value": "Refined Poverty"
+        },
+        {
+            "value": "Make Hot and Give"
+        },
+        {
+            "value": "The Mockingbird Sin"
+        },
+        {
+            "value": "Dirty in the Right Places"
+        }
+    ]
+}

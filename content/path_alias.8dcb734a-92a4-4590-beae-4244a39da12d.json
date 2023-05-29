@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8dcb734a-92a4-4590-beae-4244a39da12d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b60c857d-56e7-469b-9bb4-f37f5b2601bb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/makin-move"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "15f4abfd-7ed4-411b-a21e-dcc70ef18369"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "role",
+            "target_type": "paragraphs_type",
+            "target_uuid": "1ff8b525-8e0d-490f-ab8d-934feed0001a"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T01:34:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_content": [
+        {
+            "target_type": "node",
+            "target_uuid": "3809e217-a20b-4c6e-b0d1-3b7d9de20692"
+        }
+    ],
+    "field_role_name": [
+        {
+            "value": "tuba (tracks 2-3, 5, & 7)"
+        }
+    ]
+}
