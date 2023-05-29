@@ -1,0 +1,143 @@
+{
+    "uuid": [
+        {
+            "value": "30d207be-6e09-4c0b-8904-5931ef2b3fbe"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-29T01:53:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Pop Start the Tape, StoP"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T01:51:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T01:53:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/pop-start-tape-stop",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "b7133ce6-c013-453e-9f66-7aafb0f18c5e"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "6d5c1e93-bddf-452a-8332-01f69edf7269"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "5391d917-f058-4557-afbd-5aba1b470c3e"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 2005
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "8925cc03-5b70-49f4-96c9-e6105c59d745"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Hardedge"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/www.discogs.com\/release\/4162996-Henry-Threadgills-Zooid-Pop-Start-The-Tape-Stop",
+            "title": "Discogs",
+            "options": []
+        }
+    ],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ac3b24dd-5e92-4107-8026-365d3d102b6f"
+        }
+    ],
+    "field_track": [
+        {
+            "value": "Side 1"
+        },
+        {
+            "value": "Side 2"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1472ac52-63a9-4950-a897-f0fe4672d4bf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/30d207be-6e09-4c0b-8904-5931ef2b3fbe"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/pop-start-tape-stop"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
