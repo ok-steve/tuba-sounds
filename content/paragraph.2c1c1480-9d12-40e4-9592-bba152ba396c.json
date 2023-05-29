@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "2c1c1480-9d12-40e4-9592-bba152ba396c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "role",
+            "target_type": "paragraphs_type",
+            "target_uuid": "1ff8b525-8e0d-490f-ab8d-934feed0001a"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T01:23:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_content": [
+        {
+            "target_type": "node",
+            "target_uuid": "67227071-73b5-48f7-8ac7-e3895156e6a0"
+        }
+    ],
+    "field_role_name": [
+        {
+            "value": "tuba"
+        }
+    ]
+}

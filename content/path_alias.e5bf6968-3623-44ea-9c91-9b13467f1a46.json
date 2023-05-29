@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e5bf6968-3623-44ea-9c91-9b13467f1a46"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/007884de-dbb8-448e-90b1-fec6c25384b7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/live-koncepts"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
