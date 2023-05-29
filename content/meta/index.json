@@ -1070,5 +1070,65 @@
     ],
     "path_alias.3442ce2a-d0a8-4ebf-b7e8-33df84185aba": [
         "node.fd920f10-eb8a-43ca-a970-c79099e4d20d"
+    ],
+    "file.35efa263-2434-4d27-8fd3-a8b11738057f": [
+        "user.0acc7f91-33e4-4070-8234-997facc9b6ee"
+    ],
+    "media.47ee5f91-f2f1-4c11-bbfb-66183478b07b": [
+        "user.0acc7f91-33e4-4070-8234-997facc9b6ee",
+        "file.35efa263-2434-4d27-8fd3-a8b11738057f"
+    ],
+    "file.cad9f165-0f0e-4fbc-b5c1-e0f3fddc6c31": [
+        "user.0acc7f91-33e4-4070-8234-997facc9b6ee"
+    ],
+    "media.54adca84-3eca-4dcc-9301-4619ed4cf09d": [
+        "user.0acc7f91-33e4-4070-8234-997facc9b6ee",
+        "file.cad9f165-0f0e-4fbc-b5c1-e0f3fddc6c31"
+    ],
+    "file.8df063ec-eb09-4662-bba9-7d9615b7eb45": [
+        "user.0acc7f91-33e4-4070-8234-997facc9b6ee"
+    ],
+    "media.7f598120-3bc4-461b-9adc-0ec18873868a": [
+        "user.0acc7f91-33e4-4070-8234-997facc9b6ee",
+        "file.8df063ec-eb09-4662-bba9-7d9615b7eb45"
+    ],
+    "file.6f0e364a-5faf-4b34-a574-428dd697025b": [
+        "user.0acc7f91-33e4-4070-8234-997facc9b6ee"
+    ],
+    "media.2e4a5305-bf77-43af-bf2d-fe48f1b7777c": [
+        "user.0acc7f91-33e4-4070-8234-997facc9b6ee",
+        "file.6f0e364a-5faf-4b34-a574-428dd697025b"
+    ],
+    "file.a81a2f5b-28e4-4111-9ff1-fd443a25f47d": [
+        "user.0acc7f91-33e4-4070-8234-997facc9b6ee"
+    ],
+    "media.fca949cf-7c83-431d-8fd0-23cb88bfd9c7": [
+        "user.0acc7f91-33e4-4070-8234-997facc9b6ee",
+        "file.a81a2f5b-28e4-4111-9ff1-fd443a25f47d"
+    ],
+    "node.e74d722c-6d9c-4acf-9e10-7697119837d0": [
+        "user.0acc7f91-33e4-4070-8234-997facc9b6ee"
+    ],
+    "path_alias.397da703-07c7-4158-9a83-71dac603961d": [
+        "node.e74d722c-6d9c-4acf-9e10-7697119837d0"
+    ],
+    "paragraph.ba81cadc-ab0a-454e-b1ec-dae1c3806623": [
+        "node.e74d722c-6d9c-4acf-9e10-7697119837d0"
+    ],
+    "paragraph.eab050b6-8b5f-4dd9-bb2d-3342a376cdb6": [
+        "node.1bf2d1b1-1aac-4fc3-9d74-b7f4901a5036"
+    ],
+    "node.e564f42f-5b98-49dd-ae24-b308a7634c20": [
+        "user.0acc7f91-33e4-4070-8234-997facc9b6ee",
+        "media.54adca84-3eca-4dcc-9301-4619ed4cf09d",
+        "media.7f598120-3bc4-461b-9adc-0ec18873868a",
+        "media.2e4a5305-bf77-43af-bf2d-fe48f1b7777c",
+        "media.fca949cf-7c83-431d-8fd0-23cb88bfd9c7",
+        "paragraph.ba81cadc-ab0a-454e-b1ec-dae1c3806623",
+        "paragraph.eab050b6-8b5f-4dd9-bb2d-3342a376cdb6",
+        "media.47ee5f91-f2f1-4c11-bbfb-66183478b07b"
+    ],
+    "path_alias.672ac8ad-6039-4494-a374-a104bf812b67": [
+        "node.e564f42f-5b98-49dd-ae24-b308a7634c20"
     ]
 }

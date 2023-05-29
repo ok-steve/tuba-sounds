@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "cad9f165-0f0e-4fbc-b5c1-e0f3fddc6c31"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "filename": [
+        {
+            "value": "H6AdaM-44vtA2rVscpu30DHmz-VpgOTpXQw1TfkGU5I.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/oembed_thumbnails\/2023-05\/H6AdaM-44vtA2rVscpu30DHmz-VpgOTpXQw1TfkGU5I.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 26557
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T00:51:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T00:51:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

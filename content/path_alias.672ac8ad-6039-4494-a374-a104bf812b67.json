@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "672ac8ad-6039-4494-a374-a104bf812b67"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e564f42f-5b98-49dd-ae24-b308a7634c20"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/plenty-horn"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

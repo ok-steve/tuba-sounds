@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "397da703-07c7-4158-9a83-71dac603961d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e74d722c-6d9c-4acf-9e10-7697119837d0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/paul-horn"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
