@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "1098351e-dfb9-4063-9915-e39d499e0c54"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "role",
+            "target_type": "paragraphs_type",
+            "target_uuid": "1ff8b525-8e0d-490f-ab8d-934feed0001a"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T00:52:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_content": [
+        {
+            "target_type": "node",
+            "target_uuid": "e74d722c-6d9c-4acf-9e10-7697119837d0"
+        }
+    ],
+    "field_role_name": [
+        {
+            "value": "alto saxophone, flute, alto flute, clarinet"
+        }
+    ]
+}

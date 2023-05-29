@@ -1,0 +1,171 @@
+{
+    "uuid": [
+        {
+            "value": "a8388b89-3244-452b-b9c1-11595064c8c0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-29T00:54:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Jazz Suite on the Mass Texts"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T00:52:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T00:54:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/jazz-suite-mass-texts",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "1d19eee9-24b8-46f6-ad1b-7139cb8dec57"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "1098351e-dfb9-4063-9915-e39d499e0c54"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "c8828aeb-dc10-4a0a-923f-bd1a202e7ddf"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1965
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "b9cc56bb-7035-4a6a-9c2f-f5b6e7ce6fb9"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "RCA Victor"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/1ac8f298-dabc-4c07-a1cc-f0399ede5159",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/Jazz_Suite_on_the_Mass_Texts",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/350247-Paul-Horn-Jazz-Suite-On-The-Mass-Texts",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/mw0000873457",
+            "title": "AllMusic",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Kyrie"
+        },
+        {
+            "value": "Interludium"
+        },
+        {
+            "value": "Gloria"
+        },
+        {
+            "value": "Credo"
+        },
+        {
+            "value": "Sanctus"
+        },
+        {
+            "value": "Prayer"
+        },
+        {
+            "value": "Offertory"
+        },
+        {
+            "value": "Agnus Dei"
+        }
+    ]
+}

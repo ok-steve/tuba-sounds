@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "57d4c8bf-8159-4b79-9932-5934e1e33149"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a8388b89-3244-452b-b9c1-11595064c8c0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/jazz-suite-mass-texts"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
