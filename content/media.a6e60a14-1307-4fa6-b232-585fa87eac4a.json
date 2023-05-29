@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "a6e60a14-1307-4fa6-b232-585fa87eac4a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "9e3f7168-a1ff-4fc3-892a-35b39ba2826b"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-05-29T00:55:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "name": [
+        {
+            "value": "L.A._Midnight.jpg"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Cover art for L.A. Midnight by B.B. King",
+            "title": null,
+            "width": 250,
+            "height": 250,
+            "target_type": "file",
+            "target_uuid": "8a896745-911f-4eb2-bec2-e13854d78469"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T00:55:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T00:55:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Cover art for L.A. Midnight by B.B. King",
+            "title": "",
+            "width": 250,
+            "height": 250,
+            "target_type": "file",
+            "target_uuid": "8a896745-911f-4eb2-bec2-e13854d78469"
+        }
+    ]
+}

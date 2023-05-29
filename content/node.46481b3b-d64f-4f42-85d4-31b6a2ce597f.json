@@ -1,0 +1,168 @@
+{
+    "uuid": [
+        {
+            "value": "46481b3b-d64f-4f42-85d4-31b6a2ce597f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-29T00:58:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "L.A. Midnight"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T00:55:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T00:58:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/la-midnight",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "21811e68-ccf0-4ed9-869e-c7802cde7237"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "551817b0-b824-4000-bee2-053516c7f3dc"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "087a21e8-aed1-414e-a4dd-2f9ed6d9824a"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1972
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "a6e60a14-1307-4fa6-b232-585fa87eac4a"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "ABC"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/ffa4449f-a349-4b9c-b5f5-5c13e77393cc",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/L.A._Midnight",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/269312-BB-King-LA-Midnight",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/la-midnight-mw0000899053",
+            "title": "AllMusic",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "I Got Some Help I Don't Need"
+        },
+        {
+            "value": "Help the Poor"
+        },
+        {
+            "value": "Can't You Hear Me Talking"
+        },
+        {
+            "value": "Midnight"
+        },
+        {
+            "value": "Sweet Sixteen"
+        },
+        {
+            "value": "(I Believe) I've Been Blue Too Long"
+        },
+        {
+            "value": "Lucille's Granny"
+        }
+    ]
+}

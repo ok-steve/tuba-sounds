@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ffa9750e-68e5-4cf4-812b-471dd954d9bd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/62c98d0c-ce4b-419f-81a5-df7ee5d1cd6b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/bb-king"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f31763f2-b2fd-40bd-a89f-4d3350e2a9c5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/46481b3b-d64f-4f42-85d4-31b6a2ce597f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/la-midnight"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
