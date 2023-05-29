@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f28089f8-ba62-4145-9d8e-b2bc2c46d78d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6e6bd67a-4b0f-44ba-8cb1-c402f75378be"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/ry-cooder"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

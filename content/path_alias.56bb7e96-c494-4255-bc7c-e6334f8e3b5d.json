@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "56bb7e96-c494-4255-bc7c-e6334f8e3b5d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7ef00f6c-daa7-41ac-9dbb-1364cdb4264d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/jazz"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

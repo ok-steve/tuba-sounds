@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "b6908379-f54f-46af-9863-e1ccfc027559"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "filename": [
+        {
+            "value": "RyCooder_Jazz.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-05\/RyCooder_Jazz.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 66047
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T00:59:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T00:59:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}
