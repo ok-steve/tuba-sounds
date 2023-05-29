@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5feeaa38-4733-440d-a14e-4c92365c2c53"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/2"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/tags\/zooid"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

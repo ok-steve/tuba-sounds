@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "7a1e3138-b966-4d00-9d68-62d71d7dec3a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "9e3f7168-a1ff-4fc3-892a-35b39ba2826b"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-05-29T01:40:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "name": [
+        {
+            "value": "Jose_Davila.jpg"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Portrait of Jos\u00e9 Davila",
+            "title": null,
+            "width": 333,
+            "height": 500,
+            "target_type": "file",
+            "target_uuid": "640c10c3-fc02-49ba-95a9-7b05efdebb37"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T01:40:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T01:40:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Portrait of Jos\u00e9 Davila",
+            "title": "",
+            "width": 333,
+            "height": 500,
+            "target_type": "file",
+            "target_uuid": "640c10c3-fc02-49ba-95a9-7b05efdebb37"
+        }
+    ]
+}

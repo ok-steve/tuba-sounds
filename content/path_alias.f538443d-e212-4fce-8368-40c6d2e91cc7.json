@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f538443d-e212-4fce-8368-40c6d2e91cc7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0e3550f4-6e2a-45be-b3b3-d56e302eb7ab"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/jose-davila"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

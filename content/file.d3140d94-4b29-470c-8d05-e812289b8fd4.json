@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "d3140d94-4b29-470c-8d05-e812289b8fd4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "filename": [
+        {
+            "value": "sfXf_KmDPR2vt4Tbe3QcdQZG70DdaqJszxyNKmhoYa0.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/oembed_thumbnails\/2023-05\/sfXf_KmDPR2vt4Tbe3QcdQZG70DdaqJszxyNKmhoYa0.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 17347
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T01:39:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T01:39:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

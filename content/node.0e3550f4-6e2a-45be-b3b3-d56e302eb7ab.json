@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "0e3550f4-6e2a-45be-b3b3-d56e302eb7ab"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "person",
+            "target_type": "node_type",
+            "target_uuid": "2201a341-1eb7-496e-8d48-9a5d6a12382f"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-29T01:40:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Jos\u00e9 Davila"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T01:39:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T01:40:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/person\/jose-davila",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "7a1e3138-b966-4d00-9d68-62d71d7dec3a"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/artist\/b5f2e491-6cd4-4890-8687-50af410823ca",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/artist\/928872-Jose-Davila",
+            "title": "Discogs",
+            "options": []
+        }
+    ]
+}
