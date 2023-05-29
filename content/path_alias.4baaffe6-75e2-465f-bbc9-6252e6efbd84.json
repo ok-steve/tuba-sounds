@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4baaffe6-75e2-465f-bbc9-6252e6efbd84"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1f84a102-cee9-40b9-a92a-dacfcdeba1e8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/brings-us-volume-i"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

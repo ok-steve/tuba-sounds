@@ -1,0 +1,170 @@
+{
+    "uuid": [
+        {
+            "value": "1f84a102-cee9-40b9-a92a-dacfcdeba1e8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-29T01:56:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "This Brings Us To, Volume I"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T01:54:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T01:56:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/brings-us-volume-i",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "38445da5-6720-43f4-a55a-312e31ae0e2c"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "f8ef2b67-f07e-4033-9ce2-82e34eaa88f3"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "ea7a5b22-84c9-4c9f-8132-376d612b36ae"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 2009
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "f9ca5c1d-ba57-4ceb-9dc8-e4b27a9f92e4"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Pi Recordings"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/dfc72ca9-6091-4736-8da0-1c7dbe557ac6",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/This_Brings_Us_to_Volume_1",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/release\/2892148-Henry-Threadgill-Zooid-This-Brings-Us-To-Volume-I",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/this-brings-us-to-vol-i-mw0000828744",
+            "title": "AllMusic",
+            "options": []
+        }
+    ],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ac3b24dd-5e92-4107-8026-365d3d102b6f"
+        }
+    ],
+    "field_track": [
+        {
+            "value": "White Wednesday Off the Wall"
+        },
+        {
+            "value": "To Undertake My Corners Open"
+        },
+        {
+            "value": "Chairmaster"
+        },
+        {
+            "value": "After Some Time"
+        },
+        {
+            "value": "Sap"
+        },
+        {
+            "value": "Mirror Mirror the Verb"
+        }
+    ]
+}

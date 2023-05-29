@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "a50ef87c-6d6e-472c-b1ea-efb6afe6a45a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "filename": [
+        {
+            "value": "This_Brings_Us_To_Volume_1.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-05\/This_Brings_Us_To_Volume_1.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 3610
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T01:54:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T01:54:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}
