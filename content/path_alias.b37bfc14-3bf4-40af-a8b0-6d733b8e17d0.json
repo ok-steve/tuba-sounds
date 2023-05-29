@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b37bfc14-3bf4-40af-a8b0-6d733b8e17d0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/964e5e37-034d-4d61-b0d9-48f4d92e3f12"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/carry-day"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

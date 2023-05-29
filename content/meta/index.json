@@ -1383,5 +1383,40 @@
     "media.b20d3ed9-926a-4ac3-9a18-4c868749af29": [
         "user.0acc7f91-33e4-4070-8234-997facc9b6ee",
         "file.0a6f19bc-0f61-4ce5-b697-84bfcd7123af"
+    ],
+    "file.5a7c9939-1e84-40ff-a1ab-ca66528e6e7c": [
+        "user.0acc7f91-33e4-4070-8234-997facc9b6ee"
+    ],
+    "media.902c9830-5fa3-41a0-a37f-cf493c5c4916": [
+        "user.0acc7f91-33e4-4070-8234-997facc9b6ee",
+        "file.5a7c9939-1e84-40ff-a1ab-ca66528e6e7c"
+    ],
+    "file.fda86a55-67cf-40e5-b508-c75572f95227": [
+        "user.0acc7f91-33e4-4070-8234-997facc9b6ee"
+    ],
+    "media.d6aa8690-2f42-4a6b-bdf7-d95df02f28f4": [
+        "user.0acc7f91-33e4-4070-8234-997facc9b6ee",
+        "file.fda86a55-67cf-40e5-b508-c75572f95227"
+    ],
+    "paragraph.8e32633f-98ad-49e4-a113-07a347bb4ca9": [
+        "node.37707283-d1d9-4851-b729-6f5cb3bbc8f5"
+    ],
+    "paragraph.a35f00ee-6ba0-46b6-bdaf-e8718111cc7e": [
+        "node.3809e217-a20b-4c6e-b0d1-3b7d9de20692"
+    ],
+    "paragraph.42367030-3874-4a2b-a5f2-b25e90ac1bd1": [
+        "node.67227071-73b5-48f7-8ac7-e3895156e6a0"
+    ],
+    "node.964e5e37-034d-4d61-b0d9-48f4d92e3f12": [
+        "user.0acc7f91-33e4-4070-8234-997facc9b6ee",
+        "media.d6aa8690-2f42-4a6b-bdf7-d95df02f28f4",
+        "paragraph.8e32633f-98ad-49e4-a113-07a347bb4ca9",
+        "paragraph.a35f00ee-6ba0-46b6-bdaf-e8718111cc7e",
+        "paragraph.42367030-3874-4a2b-a5f2-b25e90ac1bd1",
+        "media.902c9830-5fa3-41a0-a37f-cf493c5c4916",
+        "taxonomy_term.2639b5ed-d84c-49cc-8359-002249c786f1"
+    ],
+    "path_alias.b37bfc14-3bf4-40af-a8b0-6d733b8e17d0": [
+        "node.964e5e37-034d-4d61-b0d9-48f4d92e3f12"
     ]
 }

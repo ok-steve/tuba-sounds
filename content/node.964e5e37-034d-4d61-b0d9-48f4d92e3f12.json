@@ -1,0 +1,174 @@
+{
+    "uuid": [
+        {
+            "value": "964e5e37-034d-4d61-b0d9-48f4d92e3f12"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-29T01:32:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Carry the Day"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T01:30:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T01:32:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/carry-day",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "d6aa8690-2f42-4a6b-bdf7-d95df02f28f4"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "8e32633f-98ad-49e4-a113-07a347bb4ca9"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "a35f00ee-6ba0-46b6-bdaf-e8718111cc7e"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "42367030-3874-4a2b-a5f2-b25e90ac1bd1"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1995
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "902c9830-5fa3-41a0-a37f-cf493c5c4916"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Columbia"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/2e5bc22f-0268-3298-a5a1-8fd8c301dda3",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/Carry_the_Day_(album)",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/1123858-Henry-Threadgill-Very-Very-Circus-Plus-Carry-The-Day",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/carry-the-day-mw0000125699",
+            "title": "AllMusic",
+            "options": []
+        }
+    ],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2639b5ed-d84c-49cc-8359-002249c786f1"
+        }
+    ],
+    "field_track": [
+        {
+            "value": "Come Carry the Day"
+        },
+        {
+            "value": "Growing a Big Banana"
+        },
+        {
+            "value": "Vivjanrondirkski"
+        },
+        {
+            "value": "Between Orchids Lilies Blind Eyes and Cricket"
+        },
+        {
+            "value": "Hyla Crucifer... Silence Of"
+        },
+        {
+            "value": "Jenkins Boys Again, Wish Somebody Die, It's Hot"
+        }
+    ]
+}
