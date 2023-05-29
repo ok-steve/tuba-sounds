@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6343553d-4ba5-4707-a078-dbf1fe6efc90"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a75bfe4e-74c7-43fe-8c8c-520e26745e73"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/dorian-l-parreott-ii"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "uuid": [
+        {
+            "value": "2734f16c-7442-42b2-affe-f87c2df71307"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-29T01:28:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Too Much Sugar for a Dime"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T01:25:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T01:28:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/too-much-sugar-dime",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "04513c7a-5212-4155-8f45-e2e3d9fe876d"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "8b4519fc-bd5a-4f21-bdbe-5200a1df8f74"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "8aad52b9-b314-4b9c-bd11-564288bb0d2a"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "7c84e5f3-6a19-4710-952d-6654c33f2e2d"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "facc3c0f-7868-45f4-9010-20d2fec64c0b"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1993
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "0d3529d9-49ba-4f72-b58e-217bad1ad751"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Axiom"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/c3f5dde9-4234-3465-b756-69166606cb9e",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/Too_Much_Sugar_for_a_Dime",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/878466-Henry-Threadgill-Too-Much-Sugar-For-A-Dime",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/too-much-sugar-for-a-dime-mw0000094899",
+            "title": "AllMusic",
+            "options": []
+        }
+    ],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2639b5ed-d84c-49cc-8359-002249c786f1"
+        }
+    ],
+    "field_track": [
+        {
+            "value": "Little Pocket Size Demons"
+        },
+        {
+            "value": "In Touch"
+        },
+        {
+            "value": "Paper Toilet"
+        },
+        {
+            "value": "Better Wrapped \/ Better Unrapped"
+        },
+        {
+            "value": "Too Much Sugar"
+        },
+        {
+            "value": "Try Some Ammonia"
+        }
+    ]
+}

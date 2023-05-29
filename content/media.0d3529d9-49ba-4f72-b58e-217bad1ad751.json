@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "0d3529d9-49ba-4f72-b58e-217bad1ad751"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "9e3f7168-a1ff-4fc3-892a-35b39ba2826b"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-05-29T01:26:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "name": [
+        {
+            "value": "Too_Much_Sugar_for_a_Dime.jpg"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Core art for Too Much Sugar for a Dime by Henry Threadgill",
+            "title": null,
+            "width": 301,
+            "height": 300,
+            "target_type": "file",
+            "target_uuid": "0b6a42af-d294-4a16-a928-44f6151c9126"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T01:26:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T01:26:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Cover art for Too Much Sugar for a Dime by Henry Threadgill",
+            "title": "",
+            "width": 301,
+            "height": 300,
+            "target_type": "file",
+            "target_uuid": "0b6a42af-d294-4a16-a928-44f6151c9126"
+        }
+    ]
+}
