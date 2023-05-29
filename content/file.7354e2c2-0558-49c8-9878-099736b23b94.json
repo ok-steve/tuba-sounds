@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "7354e2c2-0558-49c8-9878-099736b23b94"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "filename": [
+        {
+            "value": "This_Brings_Us_to_vol2_cover.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-05\/This_Brings_Us_to_vol2_cover.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 2485
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T01:57:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T01:57:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

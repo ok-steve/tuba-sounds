@@ -1,0 +1,88 @@
+{
+    "uuid": [
+        {
+            "value": "2fa1ca2f-ea87-47d6-aace-7aead98b6eef"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "remote_audio",
+            "target_type": "media_type",
+            "target_uuid": "3d586c7b-1384-46ec-aa3a-c5812d8ade61"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-05-29T01:59:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "name": [
+        {
+            "value": "This Brings Us To, Volume II"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "",
+            "title": null,
+            "width": 300,
+            "height": 300,
+            "target_type": "file",
+            "target_uuid": "f4553115-84f2-463d-b7ce-b8e7bb47862c"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T01:59:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T01:59:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "field_media_oembed_audio": [
+        {
+            "value": "https:\/\/open.spotify.com\/album\/1M6ljhxSrJ5rksPZJAbQYM"
+        }
+    ]
+}
