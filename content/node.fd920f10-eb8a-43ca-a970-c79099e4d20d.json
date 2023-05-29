@@ -1,0 +1,160 @@
+{
+    "uuid": [
+        {
+            "value": "fd920f10-eb8a-43ca-a970-c79099e4d20d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-29T00:48:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "The New Continent"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T00:45:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T00:48:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/new-continent",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "3042f89a-2121-4bb5-9528-a85cb2bb8623"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "9b58fdd0-4158-459d-a889-8ede5aae3b30"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "5120ab0d-f475-4740-9b08-d25ffa9946b8"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1962
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "59fcc70a-a5e5-4854-928a-5dd624391672"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Limelight"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/6f8b1bdf-cbd6-4005-8354-8bb2528532ce",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/The_New_Continent",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/171419-Dizzy-Gillespie-And-The-Big-Band-The-New-Continent",
+            "title": "Discogs",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "The Empire"
+        },
+        {
+            "value": "The Conquerors"
+        },
+        {
+            "value": "The Legend of Atlantis"
+        },
+        {
+            "value": "The Chains"
+        },
+        {
+            "value": "The Swords"
+        },
+        {
+            "value": "Chorale"
+        }
+    ]
+}

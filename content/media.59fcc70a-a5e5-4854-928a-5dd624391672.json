@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "59fcc70a-a5e5-4854-928a-5dd624391672"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "9e3f7168-a1ff-4fc3-892a-35b39ba2826b"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-05-29T00:46:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "name": [
+        {
+            "value": "The_New_Continent.jpg"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Cover art for The New Continent by Dizzy Gillespie",
+            "title": null,
+            "width": 316,
+            "height": 316,
+            "target_type": "file",
+            "target_uuid": "a2019d63-f098-48fd-9911-debee04bdb8c"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T00:46:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T00:46:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Cover art for The New Continent by Dizzy Gillespie",
+            "title": "",
+            "width": 316,
+            "height": 316,
+            "target_type": "file",
+            "target_uuid": "a2019d63-f098-48fd-9911-debee04bdb8c"
+        }
+    ]
+}

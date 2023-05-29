@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "86d7f48a-e901-4e91-9773-34177e953a04"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2a80fb4d-157d-413d-865f-ecc85aec8be2"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/dizzy-gillespie"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3442ce2a-d0a8-4ebf-b7e8-33df84185aba"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/fd920f10-eb8a-43ca-a970-c79099e4d20d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/new-continent"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
