@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "68510a47-c98b-4253-896e-d14f4eb1b145"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/37707283-d1d9-4851-b729-6f5cb3bbc8f5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/henry-threadgill"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

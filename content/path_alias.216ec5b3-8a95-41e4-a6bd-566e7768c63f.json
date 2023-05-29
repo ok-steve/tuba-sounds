@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "216ec5b3-8a95-41e4-a6bd-566e7768c63f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/tags\/very-very-circus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

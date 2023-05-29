@@ -1,0 +1,177 @@
+{
+    "uuid": [
+        {
+            "value": "a4ec0dc5-ed84-43d1-9e8f-e13353f0bf1e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-29T01:20:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Spirit of Nuff\u2026Nuff"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-29T01:17:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-29T01:20:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/spirit-nuff-nuff",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "b9c01573-13d0-4c96-9161-1dfd96cad3b4"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "d25250db-3e94-48c2-ab9f-9c5753c00bce"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "87a63cb9-bebb-4b81-9f99-8d9342b481a4"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "d93813f1-2c71-4dfe-822e-5a186f150882"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 1990
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "a3195a7d-f567-4677-9295-503e24549b65"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Black Saint"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/b90016b4-82ae-3351-9338-ca34afed96ac",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/Spirit_of_Nuff...Nuff",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/241636-Henry-Threadgill-Very-Very-Circus-Spirit-Of-NuffNuff",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/spirit-of-nuffnuff-mw0000271277",
+            "title": "AllMusic",
+            "options": []
+        }
+    ],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2639b5ed-d84c-49cc-8359-002249c786f1"
+        }
+    ],
+    "field_track": [
+        {
+            "value": "Hope a Hope A"
+        },
+        {
+            "value": "Unrealistic Love"
+        },
+        {
+            "value": "Drivin' You Slow and Crazy"
+        },
+        {
+            "value": "Bee Dee Aff"
+        },
+        {
+            "value": "First Church of This"
+        },
+        {
+            "value": "Exacto"
+        },
+        {
+            "value": "In the Ring"
+        }
+    ]
+}

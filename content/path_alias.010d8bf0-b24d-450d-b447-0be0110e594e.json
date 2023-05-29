@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "010d8bf0-b24d-450d-b447-0be0110e594e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a4ec0dc5-ed84-43d1-9e8f-e13353f0bf1e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/spirit-nuff-nuff"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5f39b320-5417-48f1-b364-aa69a2d925bf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3809e217-a20b-4c6e-b0d1-3b7d9de20692"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/person\/marcus-rojas"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
