@@ -1,0 +1,152 @@
+{
+    "uuid": [
+        {
+            "value": "58fbeb9f-b131-450d-ac50-1e47d87ba17c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-06-01T19:48:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Double Up, Plays Double Up Plus"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-01T19:46:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-01T19:48:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/double-plays-double-plus",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "7554d6fe-1e07-494e-9b3d-d5f939088835"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "77f10737-7b36-429a-a696-d77a761bcec0"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "b6f149d1-374c-4690-877f-b147abcc7a41"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 2018
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "237644a7-6410-4865-a9ff-19c49677cb80"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Pi Recordings"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/dc447d9e-d1e9-49a0-b9e2-9bee2af560dd",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/release\/11908521-Henry-Threadgill-Double-Up-Plays-Double-Up-Plus",
+            "title": "Discogs",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Game is Up"
+        },
+        {
+            "value": "Clear and Distinct From the Other A"
+        },
+        {
+            "value": "Clear and Distinct From the Other B"
+        },
+        {
+            "value": "Clear and Distinct"
+        },
+        {
+            "value": "Quote and Credits"
+        }
+    ]
+}

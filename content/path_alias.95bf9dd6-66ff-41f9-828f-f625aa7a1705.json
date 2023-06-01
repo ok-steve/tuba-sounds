@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "95bf9dd6-66ff-41f9-828f-f625aa7a1705"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/58fbeb9f-b131-450d-ac50-1e47d87ba17c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/double-plays-double-plus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
