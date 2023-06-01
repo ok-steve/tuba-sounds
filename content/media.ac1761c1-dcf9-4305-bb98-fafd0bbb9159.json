@@ -1,0 +1,88 @@
+{
+    "uuid": [
+        {
+            "value": "ac1761c1-dcf9-4305-bb98-fafd0bbb9159"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "remote_audio",
+            "target_type": "media_type",
+            "target_uuid": "3d586c7b-1384-46ec-aa3a-c5812d8ade61"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-06-01T19:43:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "name": [
+        {
+            "value": "henry threadgill zooid \u2013 beneath the bottom (2021)"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "",
+            "title": null,
+            "width": 480,
+            "height": 360,
+            "target_type": "file",
+            "target_uuid": "defe3422-6e76-41b2-a74a-14271bb6c3dc"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-01T19:43:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-01T19:43:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "field_media_oembed_audio": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=ThECxbgc5Dk"
+        }
+    ]
+}

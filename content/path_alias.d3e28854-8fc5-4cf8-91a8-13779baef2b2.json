@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d3e28854-8fc5-4cf8-91a8-13779baef2b2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/755dd92d-620b-4f8b-9be4-2c05baa79b5d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/poof"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
