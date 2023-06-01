@@ -1,0 +1,88 @@
+{
+    "uuid": [
+        {
+            "value": "3f643a50-76d6-484d-af38-7fd3986f5e89"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "remote_audio",
+            "target_type": "media_type",
+            "target_uuid": "3d586c7b-1384-46ec-aa3a-c5812d8ade61"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-06-01T19:30:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "name": [
+        {
+            "value": "Tomorrow Sunny \/ The Revelry, Spp"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "",
+            "title": null,
+            "width": 300,
+            "height": 300,
+            "target_type": "file",
+            "target_uuid": "d0b86a95-3e3c-4575-aca2-88db7ef45c70"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-01T19:30:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-01T19:30:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "field_media_oembed_audio": [
+        {
+            "value": "https:\/\/open.spotify.com\/album\/4F08WqeiwbqDOQiupyzD4w"
+        }
+    ]
+}

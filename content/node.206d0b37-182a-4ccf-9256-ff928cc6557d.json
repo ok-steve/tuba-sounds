@@ -1,0 +1,165 @@
+{
+    "uuid": [
+        {
+            "value": "206d0b37-182a-4ccf-9256-ff928cc6557d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-06-01T19:30:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Tomorrow Sunny \/ The Revelry, Spp"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-01T19:28:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-01T19:30:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/tomorrow-sunny-revelry-spp",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "3f643a50-76d6-484d-af38-7fd3986f5e89"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "d051b9b7-862b-483e-bdb6-5c955a8acd0d"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "5f59b89b-feba-4842-a7a2-d5e532df980e"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 2012
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "752c3c78-3cc7-4caf-95bb-a7b815412195"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Pi Recordings"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/38cb1b55-45ab-43d6-afbf-15f116d4e8d9",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/Tomorrow_Sunny_\/_The_Revelry,_Spp",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/release\/3606933-Henry-Threadgill-Zooid-Tomorrow-Sunny-The-Revelry-Spp",
+            "title": "Discogs",
+            "options": []
+        }
+    ],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ac3b24dd-5e92-4107-8026-365d3d102b6f"
+        }
+    ],
+    "field_track": [
+        {
+            "value": "A Day Off"
+        },
+        {
+            "value": "Tomorrow Sunny"
+        },
+        {
+            "value": "So Pleased, No Clue"
+        },
+        {
+            "value": "See the Blackbird Now"
+        },
+        {
+            "value": "Ambient Pressure Thereby"
+        },
+        {
+            "value": "Put On Keep \/ Frontispiece, Spp"
+        }
+    ]
+}
