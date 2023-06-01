@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "620a25c4-de67-4893-a635-5841b29fdb1e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/696a9015-6d04-451f-bd5e-c492e8137005"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/dirt-and-more-dirt"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "5611cccb-6f60-48fd-a7e0-068cbcf11398"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "9e3f7168-a1ff-4fc3-892a-35b39ba2826b"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-06-01T19:49:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "name": [
+        {
+            "value": "Dirt_and_More_Dirt.jpg"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Cover art for Dirt and More Dirt by Henry Threadgill",
+            "title": null,
+            "width": 599,
+            "height": 532,
+            "target_type": "file",
+            "target_uuid": "c29b65f7-8443-4245-a828-89580dee589d"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-01T19:49:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-01T19:49:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Cover art for Dirt and More Dirt by Henry Threadgill",
+            "title": "",
+            "width": 599,
+            "height": 532,
+            "target_type": "file",
+            "target_uuid": "c29b65f7-8443-4245-a828-89580dee589d"
+        }
+    ]
+}

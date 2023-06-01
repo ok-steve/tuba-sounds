@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "c29b65f7-8443-4245-a828-89580dee589d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Dirt_and_More_Dirt.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-06\/Dirt_and_More_Dirt.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 91902
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-01T19:49:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-01T19:49:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

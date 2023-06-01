@@ -1,0 +1,88 @@
+{
+    "uuid": [
+        {
+            "value": "496bfb4c-463d-4d7d-b59a-c81b9ac5d120"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "remote_audio",
+            "target_type": "media_type",
+            "target_uuid": "3d586c7b-1384-46ec-aa3a-c5812d8ade61"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-06-01T19:51:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "name": [
+        {
+            "value": "Dirt... And More Dirt"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "",
+            "title": null,
+            "width": 300,
+            "height": 300,
+            "target_type": "file",
+            "target_uuid": "ce20ed97-82d9-46e1-b483-0e8d891638e2"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-01T19:51:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-01T19:51:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "field_media_oembed_audio": [
+        {
+            "value": "https:\/\/open.spotify.com\/album\/42GhlWF0aXLgDlop9J7gWs"
+        }
+    ]
+}

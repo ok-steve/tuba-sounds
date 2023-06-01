@@ -1,0 +1,170 @@
+{
+    "uuid": [
+        {
+            "value": "696a9015-6d04-451f-bd5e-c492e8137005"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-06-01T19:51:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Dirt\u2026 and More Dirt"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-01T19:49:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-01T19:51:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/dirt-and-more-dirt",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "496bfb4c-463d-4d7d-b59a-c81b9ac5d120"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "89bba2ce-ed6e-4d33-8cde-c4959c8d08c8"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "54ee6564-a018-4d93-b68f-3b9be180f0e0"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 2018
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "5611cccb-6f60-48fd-a7e0-068cbcf11398"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Pi Recordings"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/765842d7-edc5-474d-bee1-0e1cd7ec0935",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/1749590-Henry-Threadgill-14-Or-15-Kestra-Agg-Dirt-And-More-Dirt",
+            "title": "Discogs",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Dirt - Part I"
+        },
+        {
+            "value": "Dirt - Part II"
+        },
+        {
+            "value": "Dirt - Part III"
+        },
+        {
+            "value": "Dirt - Part IV"
+        },
+        {
+            "value": "Dirt - Part V"
+        },
+        {
+            "value": "Dirt - Part VI"
+        },
+        {
+            "value": "And More Dirt - Part I"
+        },
+        {
+            "value": "And More Dirt - Part II"
+        },
+        {
+            "value": "And More Dirt - Part III"
+        },
+        {
+            "value": "And More Dirt - Part IV"
+        },
+        {
+            "value": "Credits"
+        }
+    ]
+}
