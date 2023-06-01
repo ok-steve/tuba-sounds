@@ -1,0 +1,176 @@
+{
+    "uuid": [
+        {
+            "value": "0272f2bd-f7ef-48cb-b802-7c152be49c9a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-06-01T19:34:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "In for a Penny, In for a Pound"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-01T19:31:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-01T19:34:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/penny-pound",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Winner of the 2016 Pulitzer Prize for Music.<\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "7a42d058-5e7b-4746-bcf1-635ecb577e21"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "4fa93ddb-1191-4cb7-b038-036374527706"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "3dcb9900-e4b7-4830-b498-da05a1792dc7"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 2015
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "ef4b1120-ef61-4311-aaad-25bf043e2814"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Pi Recordings"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/0a3e461f-2b1a-428f-b0ed-f97c23572dd4",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/In_for_a_Penny,_In_for_a_Pound",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/master\/1117013-Henry-Threadgill-Zooid-In-For-A-Penny-In-For-A-Pound-",
+            "title": "Discogs",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.allmusic.com\/album\/in-for-a-penny-in-for-a-pound-mw0002841393",
+            "title": "AllMusic",
+            "options": []
+        }
+    ],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ac3b24dd-5e92-4107-8026-365d3d102b6f"
+        }
+    ],
+    "field_track": [
+        {
+            "value": "In for a Penny, In for a Pound (opening)"
+        },
+        {
+            "value": "Ceroepic (for drums and percussion)"
+        },
+        {
+            "value": "Dosepic (for cello)"
+        },
+        {
+            "value": "Off the Prompt Box (exordium)"
+        },
+        {
+            "value": "Tresepic (for trombone and tuba)"
+        },
+        {
+            "value": "Unoepic (for guitar)"
+        }
+    ]
+}

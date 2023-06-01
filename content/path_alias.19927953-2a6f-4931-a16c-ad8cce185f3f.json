@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "19927953-2a6f-4931-a16c-ad8cce185f3f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0272f2bd-f7ef-48cb-b802-7c152be49c9a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/penny-pound"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

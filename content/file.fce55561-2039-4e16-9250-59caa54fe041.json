@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "fce55561-2039-4e16-9250-59caa54fe041"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "filename": [
+        {
+            "value": "In_for_a_penny_Threadgill_cover.jpeg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2023-06\/In_for_a_penny_Threadgill_cover.jpeg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 7118
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-01T19:31:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-01T19:31:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}
