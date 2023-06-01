@@ -1,0 +1,154 @@
+{
+    "uuid": [
+        {
+            "value": "38add450-9d59-4bb5-ad2d-3b18caea4b86"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "music_album",
+            "target_type": "node_type",
+            "target_uuid": "2a8dba9f-a469-4fa7-8620-5cbebc5c3c89"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-06-01T19:45:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0acc7f91-33e4-4070-8234-997facc9b6ee"
+        }
+    ],
+    "title": [
+        {
+            "value": "Old Locks and Irregular Verbs"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-01T19:44:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-01T19:45:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/music-album\/old-locks-and-irregular-verbs",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_audio": [
+        {
+            "target_type": "media",
+            "target_uuid": "b03901a7-b01b-43f7-99ff-b5aacd87af32"
+        }
+    ],
+    "field_by_artist": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "06321004-ff12-4a2a-86fd-30aaf77609e3"
+        }
+    ],
+    "field_contributor": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "a7719487-8b3d-4e62-810e-afca0b3b2078"
+        }
+    ],
+    "field_date_published": [
+        {
+            "value": 2016
+        }
+    ],
+    "field_image": [
+        {
+            "target_type": "media",
+            "target_uuid": "1ab45847-dc8f-4513-b05c-89a919dacc4c"
+        }
+    ],
+    "field_publisher": [
+        {
+            "value": "Pi Recordings"
+        }
+    ],
+    "field_same_as": [
+        {
+            "uri": "https:\/\/musicbrainz.org\/release-group\/f1f7ce6c-4eaf-4e07-b5f7-db75c33563cd",
+            "title": "MusicBrainz",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/Old_Locks_and_Irregular_Verbs",
+            "title": "Wikipedia",
+            "options": []
+        },
+        {
+            "uri": "https:\/\/www.discogs.com\/release\/8447302-Henry-Threadgill-Ensemble-Double-Up-Old-Locks-And-Irregular-Verbs",
+            "title": "Discogs",
+            "options": []
+        }
+    ],
+    "field_tags": [],
+    "field_track": [
+        {
+            "value": "Part One"
+        },
+        {
+            "value": "Part Two"
+        },
+        {
+            "value": "Part Three"
+        },
+        {
+            "value": "Part Four"
+        }
+    ]
+}

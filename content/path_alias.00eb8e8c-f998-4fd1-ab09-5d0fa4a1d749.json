@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "00eb8e8c-f998-4fd1-ab09-5d0fa4a1d749"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/38add450-9d59-4bb5-ad2d-3b18caea4b86"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/music-album\/old-locks-and-irregular-verbs"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
