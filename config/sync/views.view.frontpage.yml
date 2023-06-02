@@ -30,7 +30,7 @@ display:
         type: full
         options:
           offset: 0
-          items_per_page: 10
+          items_per_page: 12
           total_pages: 0
           id: 0
           tags:
@@ -229,12 +229,13 @@ display:
             default_group_multiple: {  }
             group_items: {  }
       style:
-        type: default
+        type: grid_responsive
         options:
-          grouping: {  }
-          row_class: ''
-          default_row_class: true
           uses_fields: false
+          columns: 4
+          cell_min_width: 150
+          grid_gutter: 24
+          alignment: horizontal
       row:
         type: 'entity:node'
         options:
@@ -248,6 +249,7 @@ display:
           replica: false
           query_tags: {  }
       relationships: {  }
+      css_class: stack
       header: {  }
       footer: {  }
       display_extenders: {  }

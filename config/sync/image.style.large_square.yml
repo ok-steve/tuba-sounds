@@ -1,0 +1,15 @@
+uuid: bca92bfc-5442-4535-baf4-81f6d6150d7e
+langcode: en
+status: true
+dependencies: {  }
+name: large_square
+label: 'Large square (480x480)'
+effects:
+  470d25d9-081b-4597-bcae-413d8091273e:
+    uuid: 470d25d9-081b-4597-bcae-413d8091273e
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 480
+      height: 480
+      anchor: center-center
