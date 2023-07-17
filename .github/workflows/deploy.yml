@@ -45,6 +45,12 @@ jobs:
         id: pages
         uses: actions/configure-pages@v3
 
+      - name: Cache assets
+        uses: actions/cache@v3
+        with:
+          path: .cache
+          key: ${{ runner.os }}-cache-assets
+
       - name: Install dependencies
         run: npm ci
 
@@ -52,6 +58,10 @@ jobs:
         run: |
           npm run build --if-present -- \
             --pathprefix=${{ steps.pages.outputs.base_path }}
+        env:
+          ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
+          ZOTERO_USER_ID: ${{ secrets.ZOTERO_USER_ID }}
+          ZOTERO_COLLECTION_KEY: ${{ secrets.ZOTERO_COLLECTION_KEY }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
