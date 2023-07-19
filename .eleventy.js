@@ -11,6 +11,14 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./public');
   eleventyConfig.addPassthroughCopy('./src/sw.js');
 
+  eleventyConfig.addCollection('item', (collectionApi) =>
+    collectionApi.getFilteredByGlob('src/items/*.{md,11ty.js}')
+  );
+
+  ['embed', 'image'].forEach((key) =>
+    eleventyConfig.addShortcode(key, require(`./lib/shortcodes/${key}`))
+  );
+
   return {
     dir: {
       input: 'src',

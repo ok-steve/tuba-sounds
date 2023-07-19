@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+<div class="cluster">
+  {% if thumbnailUrl %}
+    {% image thumbnailUrl %}
+  {% endif %}
+
+  <div class="meta">
+    <dl>
+      {% if creators %}
+        <dt>Artists</dt>
+        {% for artist in creators %}
+          <dd>
+            {{ artist.name }}
+            (<em>{{ artist.role }}</em>)
+          </dd>
+        {% endfor %}
+      {% endif %}
+
+      {% if publisher %}
+        <dt>Publisher</dt>
+        <dd>{{ publisher }}</dd>
+      {% endif %}
+
+      {% if datePublished %}
+        <dt>Released</dt>
+        <dd>{{ datePublished }}</dd>
+      {% endif %}
+    </dl>
+  </div>
+</div>
+
+{{ content | safe }}
+
+{% if tags | length %}
+  <h2>Tags</h2>
+  <ul>
+    {% for tag in tags %}
+      <li>{{ tag }}</li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+{% if audio | length %}
+  <ul role="list">
+    {% for audioUrl in audio %}
+      <li>
+        {% embed audioUrl %}
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
