@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<div class="stack" typeof="schema:WebPage">
+  <h1 property="schema:name"{% if page.url === '/' %} hidden aria-hidden="false"{% endif %}>{{ title or site.name }}</h1>
+
+  <div property="schema:mainContentOfPage">
+    {{ content | safe }}
+  </div>
+</div>
