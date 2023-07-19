@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="stack" typeof="schema:MusicAlbum">
+<div class="stack" typeof="schema:MusicAlbum" data-pagefind-body>
   <h1 property="schema:name">{{ title or site.name }}</h1>
 
   <div class="cluster">
@@ -18,7 +18,7 @@ layout: default
           <dt>Artists</dt>
           {% for artist in creators %}
             <dd property="schema:byArtist" typeof="schema:Role">
-              <span property="schema:name">{{ artist.name }}</span>
+              <span property="schema:name" data-pagefind-filter="artist">{{ artist.name }}</span>
               (<em property="schema:roleName">{{ artist.role }}</em>)
             </dd>
           {% endfor %}
@@ -26,12 +26,12 @@ layout: default
 
         {% if publisher %}
           <dt>Publisher</dt>
-          <dd property="schema:publisher">{{ publisher }}</dd>
+          <dd property="schema:publisher" data-pagefind-filter="publisher">{{ publisher }}</dd>
         {% endif %}
 
         {% if datePublished %}
           <dt>Released</dt>
-          <dd property="schema:datePublished">{{ datePublished }}</dd>
+          <dd property="schema:datePublished" data-pagefind-filter="date">{{ datePublished }}</dd>
         {% endif %}
       </dl>
     </div>
@@ -45,7 +45,7 @@ layout: default
     <h2>Tags</h2>
     <ul>
       {% for tag in tags %}
-        <li property="schema:keywords">{{ tag }}</li>
+        <li property="schema:keywords" data-pagefind-filter="tag">{{ tag }}</li>
       {% endfor %}
     </ul>
   {% endif %}
