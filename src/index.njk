@@ -23,19 +23,19 @@ eleventyImport:
           {% image item.data.thumbnailUrl %}
         {% endif %}
       </div>
-      <h2><a href="{{ item.url | url }}">{{ item.data.title }}</a></h2>
+      <h2><a href="{{ item.url }}">{{ item.data.title }}</a></h2>
     </li>
   {% endfor %}
 </ol>
 
 <ul class="cluster" role="list">
   {% if pagination.href.previous %}
-    <li><a href="{{ pagination.href.first | url }}">First</a></li>
-    <li><a href="{{ pagination.href.previous | url }}" rel="prev">Previous</a></li>
+    <li><a href="{{ pagination.href.first }}">First</a></li>
+    <li><a href="{{ pagination.href.previous }}" rel="prev">Previous</a></li>
   {% endif %}
 
   {% if pagination.href.next %}
-    <li><a href="{{ pagination.href.next | url }}" rel="next">Next</a></li>
-    <li><a href="{{ pagination.href.last | url }}">Last</a></li>
+    <li><a href="{{ pagination.href.next }}" rel="next">Next</a></li>
+    <li><a href="{{ pagination.href.last }}">Last</a></li>
   {% endif %}
 </ul>
