@@ -2,7 +2,7 @@ const { AssetCache } = require('@11ty/eleventy-fetch');
 const ZoteroFetch = require('../../lib/zotero');
 
 async function getCollection(key, results = []) {
-  const url = `/collections/${key}/items?limit=100&start=${results.length}`;
+  const url = `/collections/${key}/items?sort=dateAdded&limit=100&start=${results.length}`;
 
   const data = await ZoteroFetch(url);
 
