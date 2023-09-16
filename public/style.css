@@ -2,6 +2,17 @@
   #COMPOSITION
 \* ---------------------------------- */
 
+.frame {
+  aspect-ratio: 1;
+  overflow: hidden;
+}
+
+.frame > * {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 .grid {
   --grid-min: 12em;
 }
@@ -15,6 +26,5 @@
 }
 
 .card .frame {
-  aspect-ratio: 1 / 1;
   background-color: whitesmoke;
 }
