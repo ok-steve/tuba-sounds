@@ -3,19 +3,19 @@ layout: page
 title: Home
 permalink: "{{ 'page/' + (pagination.pageNumber + 1) if pagination.pageNumber > 0 }}/"
 pagination:
-  data: collections.item
+  data: collections.album
   size: 12
-  alias: items
+  alias: albums
 eleventyNavigation:
   key: Home
   order: -1
 eleventyImport:
   collections:
-    - item
+    - album
 ---
 
 <ol class="grid" role="list">
-  {% for item in items %}
+  {% for item in albums %}
     <li class="card">
       <div class="frame">
         {% if item.data.thumbnailUrl %}

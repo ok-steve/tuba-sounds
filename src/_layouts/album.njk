@@ -14,12 +14,22 @@ layout: default
 
     <div class="meta">
       <dl>
-        {% if creators %}
-          <dt>Artists</dt>
-          {% for artist in creators %}
+        {% if byArtist | length %}
+          <dt>Primary artist</dt>
+          {% for role in byArtist %}
             <dd property="schema:byArtist" typeof="schema:Role">
-              <span property="schema:name" data-pagefind-filter="artist">{{ artist.name }}</span>
-              (<em property="schema:roleName">{{ artist.role }}</em>)
+              <span property="schema:name" data-pagefind-filter="artist">{{ role.name }}</span>
+              (<em property="schema:roleName">{{ role.roleName }}</em>)
+            </dd>
+          {% endfor %}
+        {% endif %}
+
+        {% if contributor | length %}
+          <dt>Additional artists</dt>
+          {% for role in contributor %}
+            <dd property="schema:contributor" typeof="schema:Role">
+              <span property="schema:name" data-pagefind-filter="artist">{{ role.name }}</span>
+              (<em property="schema:roleName">{{ role.roleName }}</em>)
             </dd>
           {% endfor %}
         {% endif %}
@@ -30,7 +40,7 @@ layout: default
         {% endif %}
 
         {% if datePublished %}
-          <dt>Released</dt>
+          <dt>Release date</dt>
           <dd property="schema:datePublished" data-pagefind-filter="date">{{ datePublished }}</dd>
         {% endif %}
       </dl>

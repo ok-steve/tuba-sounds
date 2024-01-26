@@ -11,8 +11,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./public');
   eleventyConfig.addPassthroughCopy('./src/sw.js');
 
-  eleventyConfig.addCollection('item', (collectionApi) =>
-    collectionApi.getFilteredByGlob('src/items/*.{md,11ty.js}')
+  eleventyConfig.addCollection('album', (collectionApi) =>
+    collectionApi.getFilteredByGlob('src/album/*.{md,11ty.js}')
   );
 
   ['embed', 'image'].forEach((key) =>

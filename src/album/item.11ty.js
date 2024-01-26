@@ -2,7 +2,7 @@ class Item {
   data() {
     return {
       permalink({ item }) {
-        return `items/${this.slugify(item.data.title)}-${this.slugify(
+        return `album/${this.slugify(item.data.title)}-${this.slugify(
           item.key
         )}/`;
       },
@@ -15,11 +15,11 @@ class Item {
       eleventyComputed: {
         title: ({ item }) => item.data.title,
         date: ({ item }) => item.data.dateAdded,
-        creators: ({ item }) =>
+        byArtist: ({ item }) =>
           item.data.creators.map(
             ({ name, firstName, lastName, creatorType }) => ({
               name: name || `${firstName} ${lastName}`,
-              role: creatorType,
+              roleName: creatorType,
             })
           ),
         publisher: ({ item }) => item.data.label,
