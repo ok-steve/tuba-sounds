@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="stack" typeof="schema:Person">
+  <h1 property="schema:name">{{ title or site.name }}</h1>
+
+  {% if thumbnailUrl %}
+    <div class="float-start" property="schema:image">
+      {% image thumbnailUrl %}
+    </div>
+  {% endif %}
+
+  <div property="schema:description">
+    {{ content | safe }}
+  </div>
+</div>
