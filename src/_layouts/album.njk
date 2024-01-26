@@ -18,7 +18,16 @@ layout: default
           <dt>Primary artist</dt>
           {% for role in byArtist %}
             <dd property="schema:byArtist" typeof="schema:Role">
+              {% if role.url %}
+              <a href="{{ role.url | inputPathToUrl }}">
+              {% endif %}
+
               <span property="schema:name" data-pagefind-filter="artist">{{ role.name }}</span>
+
+              {%- if role.url -%}
+              </a>
+              {% endif %}
+
               (<em property="schema:roleName">{{ role.roleName }}</em>)
             </dd>
           {% endfor %}
@@ -28,7 +37,16 @@ layout: default
           <dt>Additional artists</dt>
           {% for role in contributor %}
             <dd property="schema:contributor" typeof="schema:Role">
+              {% if role.url %}
+              <a href="{{ role.url | inputPathToUrl }}">
+              {% endif %}
+
               <span property="schema:name" data-pagefind-filter="artist">{{ role.name }}</span>
+
+              {%- if role.url -%}
+              </a>
+              {% endif %}
+
               (<em property="schema:roleName">{{ role.roleName }}</em>)
             </dd>
           {% endfor %}

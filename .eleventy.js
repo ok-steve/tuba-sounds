@@ -19,6 +19,10 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addShortcode(key, require(`./lib/shortcodes/${key}`))
   );
 
+  ['inputPathToUrl'].forEach((key) =>
+    eleventyConfig.addFilter(key, require(`./lib/filters/${key}`))
+  );
+
   return {
     dir: {
       input: 'src',
