@@ -23,7 +23,7 @@
 
 .float-start {
   float: inline-start;
-  margin-inline-end: var(--space-01);
+  margin-inline-end: var(--rhythm-01);
 }
 
 /* ---------------------------------- *\
