@@ -7,9 +7,9 @@ class Item {
         )}/`;
       },
       pagination: {
-        data: 'collectionItems',
+        data: "collectionItems",
         size: 1,
-        alias: 'item',
+        alias: "item",
         addAllPagesToCollections: true,
       },
       eleventyComputed: {
@@ -28,14 +28,14 @@ class Item {
         thumbnailUrl: ({ item }) => {
           const images = item.children?.filter(
             ({ data }) =>
-              data.linkMode === 'imported_file' ||
-              (data.linkMode === 'linked_url' &&
-                (data.url.endsWith('jpg') || data.url.endsWith('jpeg')))
+              data.linkMode === "imported_file" ||
+              (data.linkMode === "linked_url" &&
+                (data.url.endsWith("jpg") || data.url.endsWith("jpeg")))
           );
 
           if (!images || images.length === 0) return;
 
-          if (this.data.linkMode === 'imported_file') {
+          if (this.data.linkMode === "imported_file") {
             return images[0].links.enclosure.href;
           } else {
             return images[0].data.url;
@@ -44,9 +44,9 @@ class Item {
         audio: ({ item }) => {
           const audio = item.children?.filter(
             ({ data }) =>
-              data.linkMode === 'linked_url' &&
-              !data.url.endsWith('jpg') &&
-              !data.url.endsWith('jpeg')
+              data.linkMode === "linked_url" &&
+              !data.url.endsWith("jpg") &&
+              !data.url.endsWith("jpeg")
           );
 
           if (!audio || audio.length === 0) return;

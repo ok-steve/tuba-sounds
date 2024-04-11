@@ -1,33 +1,33 @@
-const { EleventyHtmlBasePlugin } = require('@11ty/eleventy');
-const EleventyNavigation = require('@11ty/eleventy-navigation');
+const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
+const EleventyNavigation = require("@11ty/eleventy-navigation");
 
-require('dotenv').config();
+require("dotenv").config();
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
   eleventyConfig.addPlugin(EleventyNavigation);
 
-  eleventyConfig.setServerPassthroughCopyBehavior('passthrough');
-  eleventyConfig.addPassthroughCopy('./public');
-  eleventyConfig.addPassthroughCopy('./src/sw.js');
+  eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
+  eleventyConfig.addPassthroughCopy("./public");
+  eleventyConfig.addPassthroughCopy("./src/sw.js");
 
-  eleventyConfig.addCollection('album', (collectionApi) =>
-    collectionApi.getFilteredByGlob('src/album/*.{md,11ty.js}')
+  eleventyConfig.addCollection("album", (collectionApi) =>
+    collectionApi.getFilteredByGlob("src/album/*.{md,11ty.js}")
   );
 
-  ['embed', 'image'].forEach((key) =>
+  ["embed", "image"].forEach((key) =>
     eleventyConfig.addShortcode(key, require(`./lib/shortcodes/${key}`))
   );
 
-  ['inputPathToUrl'].forEach((key) =>
+  ["inputPathToUrl"].forEach((key) =>
     eleventyConfig.addFilter(key, require(`./lib/filters/${key}`))
   );
 
   return {
     dir: {
-      input: 'src',
-      output: 'dist',
-      layouts: '_layouts',
+      input: "src",
+      output: "dist",
+      layouts: "_layouts",
     },
   };
 };

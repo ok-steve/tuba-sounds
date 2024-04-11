@@ -2,5 +2,6 @@
   "explorer.excludeGitIgnore": true,
   "files.exclude": {
     "package-lock.json": true
-  }
+  },
+  "editor.formatOnSave": true
 }

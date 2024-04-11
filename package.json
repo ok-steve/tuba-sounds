@@ -9,7 +9,7 @@
     "build": "eleventy",
     "postbuild": "npx pagefind --site dist",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "eleventy --serve --incremental --ignore-initial"
+    "start": "eleventy --serve --incremental"
   },
   "repository": {
     "type": "git",
