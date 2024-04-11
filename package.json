@@ -8,6 +8,7 @@
     "clean": "rimraf dist",
     "build": "eleventy",
     "postbuild": "npx pagefind --site dist",
+    "preview": "eleventy --watch --incremental",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "eleventy --serve --incremental"
   },
