@@ -1,10 +1,11 @@
 class Item {
   data() {
     return {
+      layout: false,
       permalink({ item }) {
         return `album/${this.slugify(item.data.title)}-${this.slugify(
           item.key
-        )}/`;
+        )}.md`;
       },
       pagination: {
         data: "collectionItems",
@@ -57,8 +58,35 @@ class Item {
     };
   }
 
-  render({ item }) {
-    return item.data.abstractNote;
+  render(data) {
+    return `---
+title: '${data.title}'
+permalink: false
+date: ${data.date}
+byArtist: ${data.byArtist
+      ?.map(
+        ({ name, roleName }) => `
+  - name: ${name}
+    roleName: ${roleName}`
+      )
+      .join(``)}
+publisher: ${data.publisher}
+datePublished: ${data.datePublished}
+tags: ${data.tags?.map(
+      (tag) => `
+  - ${tag}
+`
+    )}
+thumbnailUrl: ${data.thumbnailUrl}
+audio: ${data.audio
+      ?.map(
+        (url) => `
+  - url: ${url}
+`
+      )
+      .join(``)}
+---
+${data.item.data.abstractNote}`;
   }
 }
 
