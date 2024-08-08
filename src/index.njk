@@ -22,7 +22,9 @@ eleventyImport:
           {% image item.data.thumbnailUrl %}
         {% endif %}
       </div>
-      <h2><a href="{{ item.url }}">{{ item.data.title }}</a></h2>
+      <h2 class="fz-0">
+        <a href="{{ item.url }}">{{ item.data.title }}</a>
+      </h2>
     </li>
   {% endfor %}
 </ol>
