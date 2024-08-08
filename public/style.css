@@ -20,7 +20,7 @@
 
 .float-start {
   float: inline-start;
-  margin-inline-end: var(--rhythm-05);
+  margin-inline-end: var(--scale-1);
 }
 
 /* ---------------------------------- *\
