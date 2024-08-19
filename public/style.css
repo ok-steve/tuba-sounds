@@ -12,6 +12,7 @@
 
 .grid {
   --grid-min: 12em;
+  max-width: unset;
 }
 
 /* ---------------------------------- *\
@@ -20,7 +21,7 @@
 
 .float-start {
   float: inline-start;
-  margin-inline-end: var(--scale-1);
+  margin-inline-end: var(--size-1);
 }
 
 /* ---------------------------------- *\
