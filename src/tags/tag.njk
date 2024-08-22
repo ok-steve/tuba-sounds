@@ -1,0 +1,24 @@
+---
+layout: base
+permalink: tags/{{ tag | slugify }}/
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - all
+eleventyComputed:
+  title: "{{ tag }}"
+---
+
+<p>Pages tagged with {{ tag }}</p>
+
+{% set items = collections[tag] %}
+
+<ol>
+  {% for item in items | selectattr('url') | reverse %}
+    <li>
+      <a href="{{ item.url }}">{{ item.data.title }}</a>
+    </li>
+  {% endfor %}
+</ol>

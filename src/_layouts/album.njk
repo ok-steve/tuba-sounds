@@ -73,7 +73,9 @@ layout: base
     <h2>Tags</h2>
     <ul>
       {% for tag in tags %}
-        <li property="schema:keywords" data-pagefind-filter="tag">{{ tag }}</li>
+        <li property="schema:keywords" data-pagefind-filter="tag">
+          <a href="/tags/{{ tag | slugify }}">{{ tag }}</a>
+        </li>
       {% endfor %}
     </ul>
   {% endif %}
