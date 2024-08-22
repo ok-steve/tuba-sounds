@@ -23,6 +23,10 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addFilter(key, require(`./lib/filters/${key}`))
   );
 
+  ["minify"].forEach((name) => {
+    eleventyConfig.addTransform(name, require(`./lib/transforms/${name}`));
+  });
+
   return {
     dir: {
       input: "src",
