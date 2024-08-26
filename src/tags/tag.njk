@@ -1,19 +1,31 @@
----
-layout: base
-permalink: tags/{{ tag | slugify }}/
-pagination:
-  data: collections
-  size: 1
-  alias: tag
-  filter:
-    - all
-eleventyComputed:
-  title: "{{ tag }}"
+---js
+{
+  layout: 'base',
+  permalink: function ({ tag }) {
+    return `tags/${this.slugify(tag)}/`;
+  },
+  pagination: {
+    data: 'collections.all',
+    size: 1,
+    alias: 'tag',
+    before: function (paginationData, fullData) {
+      return Array.from(
+        new Set(
+          paginationData.flatMap(item => item.data.tags).filter(item => item)
+        )
+      );
+    }
+  },
+  getCollectionFromTag(tag, collection) {
+    console.log('get collection', tag);
+    return collection.filter(item => item.data.tags?.includes(tag));
+  }
+}
 ---
 
 <p>Pages tagged with {{ tag }}</p>
 
-{% set items = collections[tag] %}
+{% set items = getCollectionFromTag(tag, collections.all) %}
 
 <ol>
   {% for item in items | selectattr('url') | reverse %}
