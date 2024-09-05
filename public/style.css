@@ -10,9 +10,14 @@
   --frame-aspect: 1;
 }
 
+.frame > picture > img {
+  inline-size: 100%;
+  block-size: 100%;
+}
+
 .grid {
   --grid-min: 12em;
-  max-width: unset;
+  max-inline-size: unset;
 }
 
 /* ---------------------------------- *\
