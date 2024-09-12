@@ -17,7 +17,7 @@ eleventyImport:
 <ol class="grid" role="list">
   {% for item in albums %}
     <li class="card">
-      <div class="frame">
+      <div class="frame frame-1x1">
         {% if item.data.thumbnailUrl %}
           {% image item.data.thumbnailUrl %}
         {% endif %}

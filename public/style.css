@@ -3,11 +3,11 @@
 \* ---------------------------------- */
 
 .center {
-  --center-width: 60em;
+  --center-size: 60em;
 }
 
-.frame {
-  --frame-aspect: 1;
+.cluster {
+  --cluster-space: var(--size-0);
 }
 
 .frame > picture > img {
@@ -17,7 +17,6 @@
 
 .grid {
   --grid-min: 12em;
-  max-inline-size: unset;
 }
 
 /* ---------------------------------- *\
