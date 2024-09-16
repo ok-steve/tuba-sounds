@@ -17,6 +17,7 @@
 
 .grid {
   --grid-min: 12em;
+  max-inline-size: unset;
 }
 
 /* ---------------------------------- *\
