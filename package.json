@@ -1,6 +1,7 @@
 {
   "name": "tuba-sounds",
   "private": true,
+  "type": "module",
   "version": "1.0.0",
   "description": "A discography for tubas.",
   "main": "index.js",
@@ -30,7 +31,7 @@
   },
   "homepage": "https://github.com/ok-steve/tuba-sounds#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.0",
+    "@11ty/eleventy": "^3.0.0",
     "@11ty/eleventy-fetch": "^4.0.0",
     "@11ty/eleventy-img": "^3.1.0",
     "@11ty/eleventy-navigation": "^0.3.2",

@@ -1,4 +1,4 @@
-module.exports = function () {
+export default function () {
   return {
     getTagsFromCollection(collection) {
       return Array.from(
@@ -8,4 +8,4 @@ module.exports = function () {
       );
     },
   };
-};
+}

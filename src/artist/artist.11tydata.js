@@ -1,6 +1,6 @@
-module.exports = function () {
+export default function () {
   return {
-    layout: 'person',
-    tags: ['person'],
+    layout: "person",
+    tags: ["person"],
   };
-};
+}
